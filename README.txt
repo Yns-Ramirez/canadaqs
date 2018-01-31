@@ -1,0 +1,1 @@
+Desarrollo de tablas a ser consumidas por Qlik Sense Canada
