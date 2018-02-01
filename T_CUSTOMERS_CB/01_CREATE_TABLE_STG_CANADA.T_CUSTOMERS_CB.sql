@@ -36,4 +36,4 @@ STORED AS INPUTFORMAT
 OUTPUTFORMAT
   'org.apache.hadoop.hive.ql.io.HiveIgnoreKeyTextOutputFormat'
 LOCATION
-  's3a://devbimboaws/DEV_CANADA_IC/Data/STG_CANADA/T_CUSTOMERS_CB';
+  's3a://devbimboaws/DEV_CANADA_IC/Data/stg_canada/T_CUSTOMERS_CB';

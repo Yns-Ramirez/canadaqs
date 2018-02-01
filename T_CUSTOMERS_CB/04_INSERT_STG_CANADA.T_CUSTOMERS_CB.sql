@@ -5,7 +5,6 @@ TRUNCATE TABLE STG_CANADA.T_CUSTOMERS_CB;
 
 Insert into STG_CANADA.T_CUSTOMERS_CB 
 select 
-
 cast(customeroracle_id as int) as customeroracle_id,
 cast(`location` as varchar(50)) as `location`,
 cast(customerar_id as varchar(50)) as customerar_id,
