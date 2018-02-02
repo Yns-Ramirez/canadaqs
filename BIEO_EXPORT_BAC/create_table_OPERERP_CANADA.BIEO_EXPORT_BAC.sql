@@ -1,7 +1,6 @@
-DROP TABLE IF EXISTS DWH_OPERERP_CANADA.BIEO_EXPORT_BAC;
 
-----------------------
-CREATE TABLE DWH_OPERERP_CANADA.BIEO_EXPORT_BAC
+-- ================== CREATE DDL'S ==================
+CREATE TABLE IF NOT EXISTS DWH_OPERERP_CANADA.BIEO_EXPORT_BAC
 ROW FORMAT DELIMITED FIELDS TERMINATED BY '|'
 LINES TERMINATED BY '\n'
 location 's3a://devbimboaws/DEV_CANADA_IC/Data/dwh_opererp_canada/BIEO_EXPORT_BAC'
@@ -27,4 +26,11 @@ SELECT
      ,GB_NET_BS_FCST
      ,GB_NET_FINAL_PROMO
      ,RECORD_TYPE
- FROM gb_smntc_191_demantra.BIEO_EXPORT_BAC_CBC;
+ FROM gb_smntc_191_demantra.BIEO_EXPORT_BAC_CBC
+ where 1!=1;
+
+
+ -- ================== TRANSFORMATIONS ==================
+
+INSERT OVERWRITE TABLE dwh_opererp_canada.BIEO_EXPORT_BAC
+SELECT * FROM gb_smntc_191_demantra.BIEO_EXPORT_BAC;

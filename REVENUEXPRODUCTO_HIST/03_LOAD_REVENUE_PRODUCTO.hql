@@ -25,7 +25,6 @@ from tmp_RevenueXProducto.RevenueXProducto_v;
 
 
 ---- This is a temporary process ----
-drop table if exists STG_DSD_Canada.RevenueXProducto_HIST;
 
 create table STG_DSD_Canada.RevenueXProducto_HIST 
 ROW FORMAT DELIMITED FIELDS TERMINATED BY '|'

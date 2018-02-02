@@ -1,8 +1,5 @@
 
-DROP TABLE IF EXISTS DWH_OPERERP_CANADA.BIEO_EXPORT_BAC_CBC;
-
------------------------------------------------------------------------------
-
+-- ================== CREATE DDL'S ==================
 CREATE EXTERNAL TABLE IF NOT EXISTS `dwh_opererp_canada.BIEO_EXPORT_BAC_CBC`(
   `load_date` string,
   `sdate` string,
@@ -32,3 +29,9 @@ OUTPUTFORMAT
   'org.apache.hadoop.hive.ql.io.HiveIgnoreKeyTextOutputFormat'
 LOCATION
   's3a://devbimboaws/DEV_CANADA_IC/Data/dwh_opererp_canada/BIEO_EXPORT_BAC_CBC';
+
+
+-- ================== TRANSFORMATIONS ==================
+
+INSERT OVERWRITE TABLE dwh_opererp_canada.BIEO_EXPORT_BAC_CBC
+SELECT * FROM gb_smntc_191_demantra.BIEO_EXPORT_BAC_CBC;
