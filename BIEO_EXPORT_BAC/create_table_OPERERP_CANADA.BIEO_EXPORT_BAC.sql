@@ -33,4 +33,4 @@ SELECT
  -- ================== TRANSFORMATIONS ==================
 
 INSERT OVERWRITE TABLE dwh_opererp_canada.BIEO_EXPORT_BAC
-SELECT * FROM gb_smntc_191_demantra.BIEO_EXPORT_BAC;
+SELECT * FROM gb_smntc_191_demantra.BIEO_EXPORT_BAC_CBC;

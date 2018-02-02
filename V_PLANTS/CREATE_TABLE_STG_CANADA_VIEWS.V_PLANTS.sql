@@ -3,7 +3,6 @@ ROW FORMAT DELIMITED FIELDS TERMINATED BY '|'
 LINES TERMINATED BY '\n'
 location 's3a://devbimboaws/DEV_CANADA_IC/Data/STG_CANADA_VIEWS/V_PLANTS'
 AS 
-
 SELECT 
      SUBSTR(HR_Location_0.LOCATION_CODE ,1 ,3 ) AS LegalEntity_ID
      ,HR_Organizacion_0.ORGANIZATION_ID AS Organization_ID
