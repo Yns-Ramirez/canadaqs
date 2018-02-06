@@ -29,14 +29,10 @@ CREATE EXTERNAL TABLE IF NOT EXISTS STG_CANADA.T_CUSTOMERS_CB
       COUNTRY_NAME VARCHAR(50),
       PROVINCE VARCHAR(50),
       ORG_ID INT,
-      SALESFLAG CHAR(1)
-)
-ROW FORMAT SERDE
-  'org.apache.hadoop.hive.serde2.lazy.LazySimpleSerDe'
-STORED AS INPUTFORMAT
-  'org.apache.hadoop.mapred.TextInputFormat'
-OUTPUTFORMAT
-  'org.apache.hadoop.hive.ql.io.HiveIgnoreKeyTextOutputFormat'
+      SALESFLAG CHAR(1))
+ROW FORMAT DELIMITED FIELDS TERMINATED BY '|'
+LINES TERMINATED BY '\n'
+STORED AS TEXTFILE
 LOCATION
   's3a://devbimboaws/DEV_CANADA_IC/Data/stg_canada/T_CUSTOMERS_CB';
 

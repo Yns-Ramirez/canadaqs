@@ -25,16 +25,9 @@ CREATE EXTERNAL TABLE IF NOT EXISTS STG_CANADA.T_PRODUCTS_CB
       Unit_Of_Measure VARCHAR(25),
       Conversion_Rate FLOAT,
       Item_Type VARCHAR(30))
-ROW FORMAT SERDE
-  'org.apache.hadoop.hive.serde2.lazy.LazySimpleSerDe'
-
-STORED AS 
-INPUTFORMAT
-  'org.apache.hadoop.mapred.TextInputFormat'
-
-OUTPUTFORMAT
-  'org.apache.hadoop.hive.ql.io.HiveIgnoreKeyTextOutputFormat'
-
+ROW FORMAT DELIMITED FIELDS TERMINATED BY '|'
+LINES TERMINATED BY '\n'
+STORED AS TEXTFILE
 LOCATION
   's3a://devbimboaws/DEV_CANADA_IC/Data/stg_canada/T_PRODUCTS_CB';
 
@@ -185,7 +178,7 @@ GROUP BY 1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22
 
 -- Inserting values into STG_CANADA.T_PRODUCTS_CB, using view STG_CANADA_VIEWS.V_PRODUCTS_CB
 
-INSERT INTO STG_CANADA.T_PRODUCTS_CB
+INSERT OVERWRITE STG_CANADA.T_PRODUCTS_CB
 select 
 cast(legalentity_id as VARCHAR(10)) as legalentity_id,
 cast(product_id as VARCHAR(30)) as product_id,
