@@ -1,0 +1,79 @@
+{
+  "orchestrator_task": {
+    "properties" : {
+        "task_id" : "canadaTask",
+        "cron_expression" : "",
+        "extraction_flag" : false,
+        "extraction_task_properties_path" : ""
+    },
+
+    "projects" : [
+        {
+            "project_desc" : "Canada_Tables",
+            "enable" : true,
+            "steps" : [
+                {
+                    "step_desc" : "LEVEL_1",
+                    "enable" : true,
+                    "process" : [
+                        {
+                            "enable" : true,
+                            "file_path" : "Canada/V_PLANTS/",
+                            "is_directory" : true, 
+                            "asynchronous" : false,
+                            "parameters" : ""
+                        },
+                        {
+                            "enable" : true,
+                            "file_path" : "Canada/BIEO_EXPORT_BAC/",
+                            "is_directory" : true, 
+                            "asynchronous" : false,
+                            "parameters" : ""
+                        },
+                        {
+                            "enable" : true,
+                            "file_path" : "Canada/BIEO_EXPORT_BAC_CBC/",
+                            "is_directory" : true, 
+                            "asynchronous" : false,
+                            "parameters" : ""
+                        }
+                    ]
+                },
+                {
+                    "step_desc" : "LEVEL_2",
+                    "enable" : true,
+                    "process" : [
+                        {
+                            "enable" : true,
+                            "file_path" : "Canada/T_PRODUCTS_CB/",
+                            "is_directory" : true, 
+                            "asynchronous" : false,
+                            "parameters" : ""
+                        },
+                        {
+                            "enable" : false,
+                            "file_path" : "Canada/T_ORDER_FINAL/",
+                            "is_directory" : true, 
+                            "asynchronous" : false,
+                            "parameters" : ""
+                        }
+                    ]
+                },
+                {
+                    "step_desc" : "LEVEL_3",
+                    "enable" : true,
+                    "process" : [
+                        {
+                            "enable" : true,
+                            "file_path" : "Canada/T_CUSTOMERS_CB/",
+                            "is_directory" : true, 
+                            "asynchronous" : false,
+                            "parameters" : ""
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+  }
+}
