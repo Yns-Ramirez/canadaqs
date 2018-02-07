@@ -1,0 +1,773 @@
+17/11/28 09:14:53 INFO sqoop.Sqoop: Running Sqoop version: 1.4.6-cdh5.8.3
+17/11/28 09:14:53 WARN tool.BaseSqoopTool: Setting your password on the command-line is insecure. Consider using -P instead.
+17/11/28 09:14:53 WARN sqoop.ConnFactory: Parameter --driver is set to an explicit driver however appropriate connection manager is not being set (via --connection-manager). Sqoop is going to fall back to org.apache.sqoop.manager.GenericJdbcManager. Please specify explicitly which connection manager should be used next time.
+17/11/28 09:14:53 INFO manager.SqlManager: Using default fetchSize of 1000
+17/11/28 09:15:24 INFO sqoop.Sqoop: Running Sqoop version: 1.4.6-cdh5.8.3
+17/11/28 09:15:24 WARN tool.BaseSqoopTool: Setting your password on the command-line is insecure. Consider using -P instead.
+17/11/28 09:15:25 WARN sqoop.ConnFactory: Parameter --driver is set to an explicit driver however appropriate connection manager is not being set (via --connection-manager). Sqoop is going to fall back to org.apache.sqoop.manager.GenericJdbcManager. Please specify explicitly which connection manager should be used next time.
+17/11/28 09:15:25 INFO manager.SqlManager: Using default fetchSize of 1000
+17/11/28 09:17:00 INFO sqoop.Sqoop: Running Sqoop version: 1.4.6-cdh5.8.3
+17/11/28 09:17:00 WARN tool.BaseSqoopTool: Setting your password on the command-line is insecure. Consider using -P instead.
+17/11/28 09:17:00 WARN sqoop.ConnFactory: Parameter --driver is set to an explicit driver however appropriate connection manager is not being set (via --connection-manager). Sqoop is going to fall back to org.apache.sqoop.manager.GenericJdbcManager. Please specify explicitly which connection manager should be used next time.
+17/11/28 09:17:00 INFO manager.SqlManager: Using default fetchSize of 1000
+17/11/28 09:17:26 INFO sqoop.Sqoop: Running Sqoop version: 1.4.6-cdh5.8.3
+17/11/28 09:17:26 WARN tool.BaseSqoopTool: Setting your password on the command-line is insecure. Consider using -P instead.
+17/11/28 09:17:26 WARN sqoop.ConnFactory: Parameter --driver is set to an explicit driver however appropriate connection manager is not being set (via --connection-manager). Sqoop is going to fall back to org.apache.sqoop.manager.GenericJdbcManager. Please specify explicitly which connection manager should be used next time.
+17/11/28 09:17:26 INFO manager.SqlManager: Using default fetchSize of 1000
+17/11/28 09:18:52 INFO sqoop.Sqoop: Running Sqoop version: 1.4.6-cdh5.8.3
+17/11/28 09:18:52 WARN tool.BaseSqoopTool: Setting your password on the command-line is insecure. Consider using -P instead.
+17/11/28 09:18:52 WARN sqoop.ConnFactory: Parameter --driver is set to an explicit driver however appropriate connection manager is not being set (via --connection-manager). Sqoop is going to fall back to org.apache.sqoop.manager.GenericJdbcManager. Please specify explicitly which connection manager should be used next time.
+17/11/28 09:18:52 INFO manager.SqlManager: Using default fetchSize of 1000
+17/11/28 09:19:49 INFO sqoop.Sqoop: Running Sqoop version: 1.4.6-cdh5.8.3
+17/11/28 09:19:49 WARN tool.BaseSqoopTool: Setting your password on the command-line is insecure. Consider using -P instead.
+17/11/28 09:19:49 WARN sqoop.ConnFactory: Parameter --driver is set to an explicit driver however appropriate connection manager is not being set (via --connection-manager). Sqoop is going to fall back to org.apache.sqoop.manager.GenericJdbcManager. Please specify explicitly which connection manager should be used next time.
+17/11/28 09:19:49 INFO manager.SqlManager: Using default fetchSize of 1000
+17/11/28 09:21:20 INFO sqoop.Sqoop: Running Sqoop version: 1.4.6-cdh5.8.3
+17/11/28 09:21:20 WARN tool.BaseSqoopTool: Setting your password on the command-line is insecure. Consider using -P instead.
+17/11/28 09:21:20 WARN sqoop.ConnFactory: Parameter --driver is set to an explicit driver however appropriate connection manager is not being set (via --connection-manager). Sqoop is going to fall back to org.apache.sqoop.manager.GenericJdbcManager. Please specify explicitly which connection manager should be used next time.
+17/11/28 09:21:20 INFO manager.SqlManager: Using default fetchSize of 1000
+17/11/28 09:22:03 INFO sqoop.Sqoop: Running Sqoop version: 1.4.6-cdh5.8.3
+17/11/28 09:22:03 WARN tool.BaseSqoopTool: Setting your password on the command-line is insecure. Consider using -P instead.
+17/11/28 09:22:03 WARN sqoop.ConnFactory: Parameter --driver is set to an explicit driver however appropriate connection manager is not being set (via --connection-manager). Sqoop is going to fall back to org.apache.sqoop.manager.GenericJdbcManager. Please specify explicitly which connection manager should be used next time.
+17/11/28 09:22:03 INFO manager.SqlManager: Using default fetchSize of 1000
+17/11/28 09:22:09 INFO sqoop.Sqoop: Running Sqoop version: 1.4.6-cdh5.8.3
+17/11/28 09:22:09 WARN tool.BaseSqoopTool: Setting your password on the command-line is insecure. Consider using -P instead.
+17/11/28 09:22:09 WARN sqoop.ConnFactory: Parameter --driver is set to an explicit driver however appropriate connection manager is not being set (via --connection-manager). Sqoop is going to fall back to org.apache.sqoop.manager.GenericJdbcManager. Please specify explicitly which connection manager should be used next time.
+17/11/28 09:22:09 INFO manager.SqlManager: Using default fetchSize of 1000
+17/11/28 09:22:21 INFO sqoop.Sqoop: Running Sqoop version: 1.4.6-cdh5.8.3
+17/11/28 09:22:21 WARN tool.BaseSqoopTool: Setting your password on the command-line is insecure. Consider using -P instead.
+17/11/28 09:22:21 WARN sqoop.ConnFactory: Parameter --driver is set to an explicit driver however appropriate connection manager is not being set (via --connection-manager). Sqoop is going to fall back to org.apache.sqoop.manager.GenericJdbcManager. Please specify explicitly which connection manager should be used next time.
+17/11/28 09:22:21 INFO manager.SqlManager: Using default fetchSize of 1000
+17/11/28 09:22:29 INFO sqoop.Sqoop: Running Sqoop version: 1.4.6-cdh5.8.3
+17/11/28 09:22:29 WARN tool.BaseSqoopTool: Setting your password on the command-line is insecure. Consider using -P instead.
+17/11/28 09:22:29 WARN sqoop.ConnFactory: Parameter --driver is set to an explicit driver however appropriate connection manager is not being set (via --connection-manager). Sqoop is going to fall back to org.apache.sqoop.manager.GenericJdbcManager. Please specify explicitly which connection manager should be used next time.
+17/11/28 09:22:29 INFO manager.SqlManager: Using default fetchSize of 1000
+17/11/28 09:22:33 INFO sqoop.Sqoop: Running Sqoop version: 1.4.6-cdh5.8.3
+17/11/28 09:22:33 WARN tool.BaseSqoopTool: Setting your password on the command-line is insecure. Consider using -P instead.
+17/11/28 09:22:33 WARN sqoop.ConnFactory: Parameter --driver is set to an explicit driver however appropriate connection manager is not being set (via --connection-manager). Sqoop is going to fall back to org.apache.sqoop.manager.GenericJdbcManager. Please specify explicitly which connection manager should be used next time.
+17/11/28 09:22:33 INFO manager.SqlManager: Using default fetchSize of 1000
+17/11/28 09:22:41 INFO sqoop.Sqoop: Running Sqoop version: 1.4.6-cdh5.8.3
+17/11/28 09:22:41 WARN tool.BaseSqoopTool: Setting your password on the command-line is insecure. Consider using -P instead.
+17/11/28 09:22:41 WARN sqoop.ConnFactory: Parameter --driver is set to an explicit driver however appropriate connection manager is not being set (via --connection-manager). Sqoop is going to fall back to org.apache.sqoop.manager.GenericJdbcManager. Please specify explicitly which connection manager should be used next time.
+17/11/28 09:22:41 INFO manager.SqlManager: Using default fetchSize of 1000
+17/11/28 09:22:48 INFO sqoop.Sqoop: Running Sqoop version: 1.4.6-cdh5.8.3
+17/11/28 09:22:49 WARN tool.BaseSqoopTool: Setting your password on the command-line is insecure. Consider using -P instead.
+17/11/28 09:22:49 WARN sqoop.ConnFactory: Parameter --driver is set to an explicit driver however appropriate connection manager is not being set (via --connection-manager). Sqoop is going to fall back to org.apache.sqoop.manager.GenericJdbcManager. Please specify explicitly which connection manager should be used next time.
+17/11/28 09:22:49 INFO manager.SqlManager: Using default fetchSize of 1000
+17/11/28 09:22:56 INFO sqoop.Sqoop: Running Sqoop version: 1.4.6-cdh5.8.3
+17/11/28 09:22:56 WARN tool.BaseSqoopTool: Setting your password on the command-line is insecure. Consider using -P instead.
+17/11/28 09:22:56 WARN sqoop.ConnFactory: Parameter --driver is set to an explicit driver however appropriate connection manager is not being set (via --connection-manager). Sqoop is going to fall back to org.apache.sqoop.manager.GenericJdbcManager. Please specify explicitly which connection manager should be used next time.
+17/11/28 09:22:56 INFO manager.SqlManager: Using default fetchSize of 1000
+scan complete in 2ms
+Connecting to jdbc:hive2://edge-01.bimbo.dev:10000/default;principal=hive/_HOST@CLOUDERA
+Connected to: Apache Hive (version 1.1.0-cdh5.8.3)
+Driver: Hive JDBC (version 1.1.0-cdh5.8.3)
+Transaction isolation: TRANSACTION_REPEATABLE_READ
+INFO  : Compiling command(queryId=hive_20171128092323_b6c76975-c280-4f85-8d53-57b3f03130ff): CREATE DATABASE IF NOT EXISTS tmp_RevenueXProducto
+INFO  : Semantic Analysis Completed
+INFO  : Returning Hive schema: Schema(fieldSchemas:null, properties:null)
+INFO  : Completed compiling command(queryId=hive_20171128092323_b6c76975-c280-4f85-8d53-57b3f03130ff); Time taken: 0.068 seconds
+INFO  : Executing command(queryId=hive_20171128092323_b6c76975-c280-4f85-8d53-57b3f03130ff): CREATE DATABASE IF NOT EXISTS tmp_RevenueXProducto
+INFO  : Starting task [Stage-0:DDL] in serial mode
+INFO  : Completed executing command(queryId=hive_20171128092323_b6c76975-c280-4f85-8d53-57b3f03130ff); Time taken: 0.031 seconds
+INFO  : OK
+No rows affected (0.149 seconds)
+INFO  : Compiling command(queryId=hive_20171128092323_ddf88960-4077-4605-aa87-4359cf10c2e5): CREATE TABLE IF NOT EXISTS tmp_RevenueXProducto.RevenueXProducto_tmp (
+codigo_agencia STRING,    
+codigo_ruta STRING,    
+tipo_ruta STRING,    
+fecha_venta STRING,    
+numero_documento STRING,    
+codigo_cliente STRING,    
+codigo_producto STRING,    
+cantidad_producto STRING,    
+sub_total_producto STRING,    
+tablenumber STRING,    
+descripcion_revenue STRING,    
+porcentaje_revenue STRING,    
+total_revenue STRING,    
+calculo_semanal STRING,    
+bmusuario STRING,    
+bmfechamod STRING)
+ROW FORMAT DELIMITED 
+ FIELDS TERMINATED BY '|'
+ LINES TERMINATED BY '\n' 
+STORED AS TEXTFILE
+INFO  : Semantic Analysis Completed
+INFO  : Returning Hive schema: Schema(fieldSchemas:null, properties:null)
+INFO  : Completed compiling command(queryId=hive_20171128092323_ddf88960-4077-4605-aa87-4359cf10c2e5); Time taken: 0.073 seconds
+INFO  : Executing command(queryId=hive_20171128092323_ddf88960-4077-4605-aa87-4359cf10c2e5): CREATE TABLE IF NOT EXISTS tmp_RevenueXProducto.RevenueXProducto_tmp (
+codigo_agencia STRING,    
+codigo_ruta STRING,    
+tipo_ruta STRING,    
+fecha_venta STRING,    
+numero_documento STRING,    
+codigo_cliente STRING,    
+codigo_producto STRING,    
+cantidad_producto STRING,    
+sub_total_producto STRING,    
+tablenumber STRING,    
+descripcion_revenue STRING,    
+porcentaje_revenue STRING,    
+total_revenue STRING,    
+calculo_semanal STRING,    
+bmusuario STRING,    
+bmfechamod STRING)
+ROW FORMAT DELIMITED 
+ FIELDS TERMINATED BY '|'
+ LINES TERMINATED BY '\n' 
+STORED AS TEXTFILE
+INFO  : Completed executing command(queryId=hive_20171128092323_ddf88960-4077-4605-aa87-4359cf10c2e5); Time taken: 0.001 seconds
+INFO  : OK
+No rows affected (0.081 seconds)
+INFO  : Compiling command(queryId=hive_20171128092323_c29c0ab7-df6e-4556-a62c-ada068462bcf): CREATE VIEW IF NOT EXISTS tmp_RevenueXProducto.RevenueXProducto_v
+AS
+SELECT cast(trim(codigo_agencia) as INT) as codigo_agencia,
+trim(codigo_ruta) as codigo_ruta,   
+cast(trim(tipo_ruta) as INT) as tipo_ruta,
+rtrim(ltrim(fecha_venta)) as fecha_venta,
+rtrim(ltrim(numero_documento)) as numero_documento,
+rtrim(ltrim(codigo_cliente)) as codigo_cliente,  
+cast(trim(codigo_producto) as INT) as codigo_producto,  
+cast(trim(cantidad_producto) as INT) as cantidad_producto,
+cast(trim(sub_total_producto) as DOUBLE) as sub_total_producto,
+trim(tablenumber) as tablenumber,
+rtrim(ltrim(descripcion_revenue)) as descripcion_revenue,
+cast(trim(porcentaje_revenue) as DOUBLE) as porcentaje_revenue,
+cast(trim(total_revenue) as DOUBLE) as total_revenue,
+cast(cast(trim(calculo_semanal) as INT) as BOOLEAN) as calculo_semanal,
+rtrim(ltrim(bmusuario)) as bmusuario,
+rtrim(ltrim(bmfechamod )) as bmfechamod,
+FROM_UNIXTIME(UNIX_TIMESTAMP()) as storeday,
+cast(trim(codigo_agencia) as INT) as agency
+from tmp_RevenueXProducto.RevenueXProducto_tmp
+INFO  : Semantic Analysis Completed
+INFO  : Returning Hive schema: Schema(fieldSchemas:[FieldSchema(name:codigo_agencia, type:int, comment:null), FieldSchema(name:codigo_ruta, type:string, comment:null), FieldSchema(name:tipo_ruta, type:int, comment:null), FieldSchema(name:fecha_venta, type:string, comment:null), FieldSchema(name:numero_documento, type:string, comment:null), FieldSchema(name:codigo_cliente, type:string, comment:null), FieldSchema(name:codigo_producto, type:int, comment:null), FieldSchema(name:cantidad_producto, type:int, comment:null), FieldSchema(name:sub_total_producto, type:double, comment:null), FieldSchema(name:tablenumber, type:string, comment:null), FieldSchema(name:descripcion_revenue, type:string, comment:null), FieldSchema(name:porcentaje_revenue, type:double, comment:null), FieldSchema(name:total_revenue, type:double, comment:null), FieldSchema(name:calculo_semanal, type:boolean, comment:null), FieldSchema(name:bmusuario, type:string, comment:null), FieldSchema(name:bmfechamod, type:string, comment:null), FieldSchema(name:storeday, type:string, comment:null), FieldSchema(name:agency, type:int, comment:null)], properties:null)
+INFO  : Completed compiling command(queryId=hive_20171128092323_c29c0ab7-df6e-4556-a62c-ada068462bcf); Time taken: 0.098 seconds
+INFO  : Executing command(queryId=hive_20171128092323_c29c0ab7-df6e-4556-a62c-ada068462bcf): CREATE VIEW IF NOT EXISTS tmp_RevenueXProducto.RevenueXProducto_v
+AS
+SELECT cast(trim(codigo_agencia) as INT) as codigo_agencia,
+trim(codigo_ruta) as codigo_ruta,   
+cast(trim(tipo_ruta) as INT) as tipo_ruta,
+rtrim(ltrim(fecha_venta)) as fecha_venta,
+rtrim(ltrim(numero_documento)) as numero_documento,
+rtrim(ltrim(codigo_cliente)) as codigo_cliente,  
+cast(trim(codigo_producto) as INT) as codigo_producto,  
+cast(trim(cantidad_producto) as INT) as cantidad_producto,
+cast(trim(sub_total_producto) as DOUBLE) as sub_total_producto,
+trim(tablenumber) as tablenumber,
+rtrim(ltrim(descripcion_revenue)) as descripcion_revenue,
+cast(trim(porcentaje_revenue) as DOUBLE) as porcentaje_revenue,
+cast(trim(total_revenue) as DOUBLE) as total_revenue,
+cast(cast(trim(calculo_semanal) as INT) as BOOLEAN) as calculo_semanal,
+rtrim(ltrim(bmusuario)) as bmusuario,
+rtrim(ltrim(bmfechamod )) as bmfechamod,
+FROM_UNIXTIME(UNIX_TIMESTAMP()) as storeday,
+cast(trim(codigo_agencia) as INT) as agency
+from tmp_RevenueXProducto.RevenueXProducto_tmp
+INFO  : Starting task [Stage-0:DDL] in serial mode
+INFO  : Completed executing command(queryId=hive_20171128092323_c29c0ab7-df6e-4556-a62c-ada068462bcf); Time taken: 0.015 seconds
+INFO  : OK
+No rows affected (0.135 seconds)
+INFO  : Compiling command(queryId=hive_20171128092323_ffe75ba9-d822-44a6-94c5-4b151662e95e): CREATE TABLE IF NOT EXISTS bccan_xprs.RevenueXProducto (
+codigo_agencia INT,    
+codigo_ruta STRING,    
+tipo_ruta INT,    
+fecha_venta STRING,    
+numero_documento STRING,    
+codigo_cliente STRING,    
+codigo_producto INT,    
+cantidad_producto INT,    
+sub_total_producto DOUBLE,    
+tablenumber STRING,    
+descripcion_revenue STRING,    
+porcentaje_revenue DOUBLE,    
+total_revenue DOUBLE,    
+calculo_semanal BOOLEAN,    
+bmusuario STRING,    
+bmfechamod STRING,
+storeday STRING)  
+partitioned by  (agency INT )
+STORED AS PARQUET
+INFO  : Semantic Analysis Completed
+INFO  : Returning Hive schema: Schema(fieldSchemas:null, properties:null)
+INFO  : Completed compiling command(queryId=hive_20171128092323_ffe75ba9-d822-44a6-94c5-4b151662e95e); Time taken: 0.071 seconds
+INFO  : Executing command(queryId=hive_20171128092323_ffe75ba9-d822-44a6-94c5-4b151662e95e): CREATE TABLE IF NOT EXISTS bccan_xprs.RevenueXProducto (
+codigo_agencia INT,    
+codigo_ruta STRING,    
+tipo_ruta INT,    
+fecha_venta STRING,    
+numero_documento STRING,    
+codigo_cliente STRING,    
+codigo_producto INT,    
+cantidad_producto INT,    
+sub_total_producto DOUBLE,    
+tablenumber STRING,    
+descripcion_revenue STRING,    
+porcentaje_revenue DOUBLE,    
+total_revenue DOUBLE,    
+calculo_semanal BOOLEAN,    
+bmusuario STRING,    
+bmfechamod STRING,
+storeday STRING)  
+partitioned by  (agency INT )
+STORED AS PARQUET
+INFO  : Completed executing command(queryId=hive_20171128092323_ffe75ba9-d822-44a6-94c5-4b151662e95e); Time taken: 0.001 seconds
+INFO  : OK
+No rows affected (0.078 seconds)
+INFO  : Compiling command(queryId=hive_20171128092323_11e2b53f-9638-4032-ac8d-ed8a24a8a8a0): truncate table tmp_RevenueXProducto.revenuexproducto_tmp
+INFO  : Semantic Analysis Completed
+INFO  : Returning Hive schema: Schema(fieldSchemas:null, properties:null)
+INFO  : Completed compiling command(queryId=hive_20171128092323_11e2b53f-9638-4032-ac8d-ed8a24a8a8a0); Time taken: 0.066 seconds
+INFO  : Executing command(queryId=hive_20171128092323_11e2b53f-9638-4032-ac8d-ed8a24a8a8a0): truncate table tmp_RevenueXProducto.revenuexproducto_tmp
+INFO  : Starting task [Stage-0:DDL] in serial mode
+INFO  : Completed executing command(queryId=hive_20171128092323_11e2b53f-9638-4032-ac8d-ed8a24a8a8a0); Time taken: 0.046 seconds
+INFO  : OK
+No rows affected (0.133 seconds)
+Closing: 0: jdbc:hive2://edge-01.bimbo.dev:10000/default;principal=hive/_HOST@CLOUDERA
+rm: `/user/hive/warehouse/tmp/RevenueXProducto14661.txt': No such file or directory
+scan complete in 2ms
+Connecting to jdbc:hive2://edge-01.bimbo.dev:10000/default;principal=hive/_HOST@CLOUDERA
+Connected to: Apache Hive (version 1.1.0-cdh5.8.3)
+Driver: Hive JDBC (version 1.1.0-cdh5.8.3)
+Transaction isolation: TRANSACTION_REPEATABLE_READ
+INFO  : Compiling command(queryId=hive_20171128092323_a9959598-ef3f-4951-9f03-3d884d0f881f): load data inpath  '/user/hive/warehouse/tmp/RevenueXProducto14661.txt' into table tmp_RevenueXProducto.RevenueXProducto_tmp
+INFO  : Semantic Analysis Completed
+INFO  : Returning Hive schema: Schema(fieldSchemas:null, properties:null)
+INFO  : Completed compiling command(queryId=hive_20171128092323_a9959598-ef3f-4951-9f03-3d884d0f881f); Time taken: 0.095 seconds
+INFO  : Executing command(queryId=hive_20171128092323_a9959598-ef3f-4951-9f03-3d884d0f881f): load data inpath  '/user/hive/warehouse/tmp/RevenueXProducto14661.txt' into table tmp_RevenueXProducto.RevenueXProducto_tmp
+INFO  : Starting task [Stage-0:MOVE] in serial mode
+INFO  : Loading data to table tmp_revenuexproducto.revenuexproducto_tmp from hdfs://HdfsHA/user/hive/warehouse/tmp/RevenueXProducto14661.txt
+INFO  : Starting task [Stage-1:STATS] in serial mode
+INFO  : Table tmp_revenuexproducto.revenuexproducto_tmp stats: [numFiles=1, numRows=0, totalSize=130492395, rawDataSize=0]
+INFO  : Completed executing command(queryId=hive_20171128092323_a9959598-ef3f-4951-9f03-3d884d0f881f); Time taken: 0.225 seconds
+INFO  : OK
+No rows affected (0.386 seconds)
+Beeline version 1.1.0-cdh5.8.3 by Apache Hive
+Closing: 0: jdbc:hive2://edge-01.bimbo.dev:10000/default;principal=hive/_HOST@CLOUDERA
+rm: `/user/hive/warehouse/tmp/RevenueXProducto14662.txt': No such file or directory
+scan complete in 3ms
+Connecting to jdbc:hive2://edge-01.bimbo.dev:10000/default;principal=hive/_HOST@CLOUDERA
+Connected to: Apache Hive (version 1.1.0-cdh5.8.3)
+Driver: Hive JDBC (version 1.1.0-cdh5.8.3)
+Transaction isolation: TRANSACTION_REPEATABLE_READ
+INFO  : Compiling command(queryId=hive_20171128092323_73982f71-f428-4edb-9183-3a781400ae3d): load data inpath  '/user/hive/warehouse/tmp/RevenueXProducto14662.txt' into table tmp_RevenueXProducto.RevenueXProducto_tmp
+INFO  : Semantic Analysis Completed
+INFO  : Returning Hive schema: Schema(fieldSchemas:null, properties:null)
+INFO  : Completed compiling command(queryId=hive_20171128092323_73982f71-f428-4edb-9183-3a781400ae3d); Time taken: 0.089 seconds
+INFO  : Executing command(queryId=hive_20171128092323_73982f71-f428-4edb-9183-3a781400ae3d): load data inpath  '/user/hive/warehouse/tmp/RevenueXProducto14662.txt' into table tmp_RevenueXProducto.RevenueXProducto_tmp
+INFO  : Starting task [Stage-0:MOVE] in serial mode
+INFO  : Loading data to table tmp_revenuexproducto.revenuexproducto_tmp from hdfs://HdfsHA/user/hive/warehouse/tmp/RevenueXProducto14662.txt
+INFO  : Starting task [Stage-1:STATS] in serial mode
+INFO  : Table tmp_revenuexproducto.revenuexproducto_tmp stats: [numFiles=2, numRows=0, totalSize=603895650, rawDataSize=0]
+INFO  : Completed executing command(queryId=hive_20171128092323_73982f71-f428-4edb-9183-3a781400ae3d); Time taken: 0.201 seconds
+INFO  : OK
+No rows affected (0.369 seconds)
+Beeline version 1.1.0-cdh5.8.3 by Apache Hive
+Closing: 0: jdbc:hive2://edge-01.bimbo.dev:10000/default;principal=hive/_HOST@CLOUDERA
+rm: `/user/hive/warehouse/tmp/RevenueXProducto14664.txt': No such file or directory
+scan complete in 2ms
+Connecting to jdbc:hive2://edge-01.bimbo.dev:10000/default;principal=hive/_HOST@CLOUDERA
+Connected to: Apache Hive (version 1.1.0-cdh5.8.3)
+Driver: Hive JDBC (version 1.1.0-cdh5.8.3)
+Transaction isolation: TRANSACTION_REPEATABLE_READ
+INFO  : Compiling command(queryId=hive_20171128092424_0a0ae124-942b-440b-b893-d74da589a168): load data inpath  '/user/hive/warehouse/tmp/RevenueXProducto14664.txt' into table tmp_RevenueXProducto.RevenueXProducto_tmp
+INFO  : Semantic Analysis Completed
+INFO  : Returning Hive schema: Schema(fieldSchemas:null, properties:null)
+INFO  : Completed compiling command(queryId=hive_20171128092424_0a0ae124-942b-440b-b893-d74da589a168); Time taken: 0.088 seconds
+INFO  : Executing command(queryId=hive_20171128092424_0a0ae124-942b-440b-b893-d74da589a168): load data inpath  '/user/hive/warehouse/tmp/RevenueXProducto14664.txt' into table tmp_RevenueXProducto.RevenueXProducto_tmp
+INFO  : Starting task [Stage-0:MOVE] in serial mode
+INFO  : Loading data to table tmp_revenuexproducto.revenuexproducto_tmp from hdfs://HdfsHA/user/hive/warehouse/tmp/RevenueXProducto14664.txt
+INFO  : Starting task [Stage-1:STATS] in serial mode
+INFO  : Table tmp_revenuexproducto.revenuexproducto_tmp stats: [numFiles=3, numRows=0, totalSize=904976807, rawDataSize=0]
+INFO  : Completed executing command(queryId=hive_20171128092424_0a0ae124-942b-440b-b893-d74da589a168); Time taken: 0.199 seconds
+INFO  : OK
+No rows affected (0.359 seconds)
+Beeline version 1.1.0-cdh5.8.3 by Apache Hive
+Closing: 0: jdbc:hive2://edge-01.bimbo.dev:10000/default;principal=hive/_HOST@CLOUDERA
+rm: `/user/hive/warehouse/tmp/RevenueXProducto14665.txt': No such file or directory
+scan complete in 3ms
+Connecting to jdbc:hive2://edge-01.bimbo.dev:10000/default;principal=hive/_HOST@CLOUDERA
+Connected to: Apache Hive (version 1.1.0-cdh5.8.3)
+Driver: Hive JDBC (version 1.1.0-cdh5.8.3)
+Transaction isolation: TRANSACTION_REPEATABLE_READ
+INFO  : Compiling command(queryId=hive_20171128092424_91783d15-f7db-4906-94d1-f1c69966db4a): load data inpath  '/user/hive/warehouse/tmp/RevenueXProducto14665.txt' into table tmp_RevenueXProducto.RevenueXProducto_tmp
+INFO  : Semantic Analysis Completed
+INFO  : Returning Hive schema: Schema(fieldSchemas:null, properties:null)
+INFO  : Completed compiling command(queryId=hive_20171128092424_91783d15-f7db-4906-94d1-f1c69966db4a); Time taken: 0.106 seconds
+INFO  : Executing command(queryId=hive_20171128092424_91783d15-f7db-4906-94d1-f1c69966db4a): load data inpath  '/user/hive/warehouse/tmp/RevenueXProducto14665.txt' into table tmp_RevenueXProducto.RevenueXProducto_tmp
+INFO  : Starting task [Stage-0:MOVE] in serial mode
+INFO  : Loading data to table tmp_revenuexproducto.revenuexproducto_tmp from hdfs://HdfsHA/user/hive/warehouse/tmp/RevenueXProducto14665.txt
+INFO  : Starting task [Stage-1:STATS] in serial mode
+INFO  : Table tmp_revenuexproducto.revenuexproducto_tmp stats: [numFiles=4, numRows=0, totalSize=1438242053, rawDataSize=0]
+INFO  : Completed executing command(queryId=hive_20171128092424_91783d15-f7db-4906-94d1-f1c69966db4a); Time taken: 0.202 seconds
+INFO  : OK
+No rows affected (0.38 seconds)
+Beeline version 1.1.0-cdh5.8.3 by Apache Hive
+Closing: 0: jdbc:hive2://edge-01.bimbo.dev:10000/default;principal=hive/_HOST@CLOUDERA
+rm: `/user/hive/warehouse/tmp/RevenueXProducto14666.txt': No such file or directory
+scan complete in 3ms
+Connecting to jdbc:hive2://edge-01.bimbo.dev:10000/default;principal=hive/_HOST@CLOUDERA
+Connected to: Apache Hive (version 1.1.0-cdh5.8.3)
+Driver: Hive JDBC (version 1.1.0-cdh5.8.3)
+Transaction isolation: TRANSACTION_REPEATABLE_READ
+INFO  : Compiling command(queryId=hive_20171128092525_aa6cb214-b495-4c4d-9da6-2e66b9cdeb72): load data inpath  '/user/hive/warehouse/tmp/RevenueXProducto14666.txt' into table tmp_RevenueXProducto.RevenueXProducto_tmp
+INFO  : Semantic Analysis Completed
+INFO  : Returning Hive schema: Schema(fieldSchemas:null, properties:null)
+INFO  : Completed compiling command(queryId=hive_20171128092525_aa6cb214-b495-4c4d-9da6-2e66b9cdeb72); Time taken: 0.087 seconds
+INFO  : Executing command(queryId=hive_20171128092525_aa6cb214-b495-4c4d-9da6-2e66b9cdeb72): load data inpath  '/user/hive/warehouse/tmp/RevenueXProducto14666.txt' into table tmp_RevenueXProducto.RevenueXProducto_tmp
+INFO  : Starting task [Stage-0:MOVE] in serial mode
+INFO  : Loading data to table tmp_revenuexproducto.revenuexproducto_tmp from hdfs://HdfsHA/user/hive/warehouse/tmp/RevenueXProducto14666.txt
+INFO  : Starting task [Stage-1:STATS] in serial mode
+INFO  : Table tmp_revenuexproducto.revenuexproducto_tmp stats: [numFiles=5, numRows=0, totalSize=2017430260, rawDataSize=0]
+INFO  : Completed executing command(queryId=hive_20171128092525_aa6cb214-b495-4c4d-9da6-2e66b9cdeb72); Time taken: 0.207 seconds
+INFO  : OK
+No rows affected (0.363 seconds)
+Beeline version 1.1.0-cdh5.8.3 by Apache Hive
+Closing: 0: jdbc:hive2://edge-01.bimbo.dev:10000/default;principal=hive/_HOST@CLOUDERA
+rm: `/user/hive/warehouse/tmp/RevenueXProducto14667.txt': No such file or directory
+scan complete in 2ms
+Connecting to jdbc:hive2://edge-01.bimbo.dev:10000/default;principal=hive/_HOST@CLOUDERA
+Connected to: Apache Hive (version 1.1.0-cdh5.8.3)
+Driver: Hive JDBC (version 1.1.0-cdh5.8.3)
+Transaction isolation: TRANSACTION_REPEATABLE_READ
+INFO  : Compiling command(queryId=hive_20171128092525_db7e48ab-fb93-4ea6-8523-1cff4cff7254): load data inpath  '/user/hive/warehouse/tmp/RevenueXProducto14667.txt' into table tmp_RevenueXProducto.RevenueXProducto_tmp
+INFO  : Semantic Analysis Completed
+INFO  : Returning Hive schema: Schema(fieldSchemas:null, properties:null)
+INFO  : Completed compiling command(queryId=hive_20171128092525_db7e48ab-fb93-4ea6-8523-1cff4cff7254); Time taken: 0.086 seconds
+INFO  : Executing command(queryId=hive_20171128092525_db7e48ab-fb93-4ea6-8523-1cff4cff7254): load data inpath  '/user/hive/warehouse/tmp/RevenueXProducto14667.txt' into table tmp_RevenueXProducto.RevenueXProducto_tmp
+INFO  : Starting task [Stage-0:MOVE] in serial mode
+INFO  : Loading data to table tmp_revenuexproducto.revenuexproducto_tmp from hdfs://HdfsHA/user/hive/warehouse/tmp/RevenueXProducto14667.txt
+INFO  : Starting task [Stage-1:STATS] in serial mode
+INFO  : Table tmp_revenuexproducto.revenuexproducto_tmp stats: [numFiles=6, numRows=0, totalSize=2479366927, rawDataSize=0]
+INFO  : Completed executing command(queryId=hive_20171128092525_db7e48ab-fb93-4ea6-8523-1cff4cff7254); Time taken: 0.203 seconds
+INFO  : OK
+No rows affected (0.361 seconds)
+Beeline version 1.1.0-cdh5.8.3 by Apache Hive
+Closing: 0: jdbc:hive2://edge-01.bimbo.dev:10000/default;principal=hive/_HOST@CLOUDERA
+rm: `/user/hive/warehouse/tmp/RevenueXProducto14672.txt': No such file or directory
+scan complete in 3ms
+Connecting to jdbc:hive2://edge-01.bimbo.dev:10000/default;principal=hive/_HOST@CLOUDERA
+Connected to: Apache Hive (version 1.1.0-cdh5.8.3)
+Driver: Hive JDBC (version 1.1.0-cdh5.8.3)
+Transaction isolation: TRANSACTION_REPEATABLE_READ
+INFO  : Compiling command(queryId=hive_20171128092525_b48dfb63-4910-48f6-8b33-ec5942b4368d): load data inpath  '/user/hive/warehouse/tmp/RevenueXProducto14672.txt' into table tmp_RevenueXProducto.RevenueXProducto_tmp
+INFO  : Semantic Analysis Completed
+INFO  : Returning Hive schema: Schema(fieldSchemas:null, properties:null)
+INFO  : Completed compiling command(queryId=hive_20171128092525_b48dfb63-4910-48f6-8b33-ec5942b4368d); Time taken: 0.087 seconds
+INFO  : Executing command(queryId=hive_20171128092525_b48dfb63-4910-48f6-8b33-ec5942b4368d): load data inpath  '/user/hive/warehouse/tmp/RevenueXProducto14672.txt' into table tmp_RevenueXProducto.RevenueXProducto_tmp
+INFO  : Starting task [Stage-0:MOVE] in serial mode
+INFO  : Loading data to table tmp_revenuexproducto.revenuexproducto_tmp from hdfs://HdfsHA/user/hive/warehouse/tmp/RevenueXProducto14672.txt
+INFO  : Starting task [Stage-1:STATS] in serial mode
+INFO  : Table tmp_revenuexproducto.revenuexproducto_tmp stats: [numFiles=7, numRows=0, totalSize=2705955557, rawDataSize=0]
+INFO  : Completed executing command(queryId=hive_20171128092525_b48dfb63-4910-48f6-8b33-ec5942b4368d); Time taken: 0.199 seconds
+INFO  : OK
+No rows affected (0.353 seconds)
+Beeline version 1.1.0-cdh5.8.3 by Apache Hive
+Closing: 0: jdbc:hive2://edge-01.bimbo.dev:10000/default;principal=hive/_HOST@CLOUDERA
+rm: `/user/hive/warehouse/tmp/RevenueXProducto14674.txt': No such file or directory
+scan complete in 2ms
+Connecting to jdbc:hive2://edge-01.bimbo.dev:10000/default;principal=hive/_HOST@CLOUDERA
+Connected to: Apache Hive (version 1.1.0-cdh5.8.3)
+Driver: Hive JDBC (version 1.1.0-cdh5.8.3)
+Transaction isolation: TRANSACTION_REPEATABLE_READ
+INFO  : Compiling command(queryId=hive_20171128092626_7eee9adf-16b9-4f07-ab3e-e458f6dfc7b7): load data inpath  '/user/hive/warehouse/tmp/RevenueXProducto14674.txt' into table tmp_RevenueXProducto.RevenueXProducto_tmp
+INFO  : Semantic Analysis Completed
+INFO  : Returning Hive schema: Schema(fieldSchemas:null, properties:null)
+INFO  : Completed compiling command(queryId=hive_20171128092626_7eee9adf-16b9-4f07-ab3e-e458f6dfc7b7); Time taken: 0.088 seconds
+INFO  : Executing command(queryId=hive_20171128092626_7eee9adf-16b9-4f07-ab3e-e458f6dfc7b7): load data inpath  '/user/hive/warehouse/tmp/RevenueXProducto14674.txt' into table tmp_RevenueXProducto.RevenueXProducto_tmp
+INFO  : Starting task [Stage-0:MOVE] in serial mode
+INFO  : Loading data to table tmp_revenuexproducto.revenuexproducto_tmp from hdfs://HdfsHA/user/hive/warehouse/tmp/RevenueXProducto14674.txt
+INFO  : Starting task [Stage-1:STATS] in serial mode
+INFO  : Table tmp_revenuexproducto.revenuexproducto_tmp stats: [numFiles=8, numRows=0, totalSize=2738629993, rawDataSize=0]
+INFO  : Completed executing command(queryId=hive_20171128092626_7eee9adf-16b9-4f07-ab3e-e458f6dfc7b7); Time taken: 0.205 seconds
+INFO  : OK
+No rows affected (0.357 seconds)
+Beeline version 1.1.0-cdh5.8.3 by Apache Hive
+Closing: 0: jdbc:hive2://edge-01.bimbo.dev:10000/default;principal=hive/_HOST@CLOUDERA
+rm: `/user/hive/warehouse/tmp/RevenueXProducto14675.txt': No such file or directory
+scan complete in 2ms
+Connecting to jdbc:hive2://edge-01.bimbo.dev:10000/default;principal=hive/_HOST@CLOUDERA
+Connected to: Apache Hive (version 1.1.0-cdh5.8.3)
+Driver: Hive JDBC (version 1.1.0-cdh5.8.3)
+Transaction isolation: TRANSACTION_REPEATABLE_READ
+INFO  : Compiling command(queryId=hive_20171128092626_eb3c3000-ce00-42dc-8395-f71f41374ae3): load data inpath  '/user/hive/warehouse/tmp/RevenueXProducto14675.txt' into table tmp_RevenueXProducto.RevenueXProducto_tmp
+INFO  : Semantic Analysis Completed
+INFO  : Returning Hive schema: Schema(fieldSchemas:null, properties:null)
+INFO  : Completed compiling command(queryId=hive_20171128092626_eb3c3000-ce00-42dc-8395-f71f41374ae3); Time taken: 0.086 seconds
+INFO  : Executing command(queryId=hive_20171128092626_eb3c3000-ce00-42dc-8395-f71f41374ae3): load data inpath  '/user/hive/warehouse/tmp/RevenueXProducto14675.txt' into table tmp_RevenueXProducto.RevenueXProducto_tmp
+INFO  : Starting task [Stage-0:MOVE] in serial mode
+INFO  : Loading data to table tmp_revenuexproducto.revenuexproducto_tmp from hdfs://HdfsHA/user/hive/warehouse/tmp/RevenueXProducto14675.txt
+INFO  : Starting task [Stage-1:STATS] in serial mode
+INFO  : Table tmp_revenuexproducto.revenuexproducto_tmp stats: [numFiles=9, numRows=0, totalSize=2803439416, rawDataSize=0]
+INFO  : Completed executing command(queryId=hive_20171128092626_eb3c3000-ce00-42dc-8395-f71f41374ae3); Time taken: 0.206 seconds
+INFO  : OK
+No rows affected (0.36 seconds)
+Beeline version 1.1.0-cdh5.8.3 by Apache Hive
+Closing: 0: jdbc:hive2://edge-01.bimbo.dev:10000/default;principal=hive/_HOST@CLOUDERA
+rm: `/user/hive/warehouse/tmp/RevenueXProducto14676.txt': No such file or directory
+scan complete in 2ms
+Connecting to jdbc:hive2://edge-01.bimbo.dev:10000/default;principal=hive/_HOST@CLOUDERA
+Connected to: Apache Hive (version 1.1.0-cdh5.8.3)
+Driver: Hive JDBC (version 1.1.0-cdh5.8.3)
+Transaction isolation: TRANSACTION_REPEATABLE_READ
+INFO  : Compiling command(queryId=hive_20171128092626_969dedbb-1f4f-4dc6-bd29-c01da1ae1e96): load data inpath  '/user/hive/warehouse/tmp/RevenueXProducto14676.txt' into table tmp_RevenueXProducto.RevenueXProducto_tmp
+INFO  : Semantic Analysis Completed
+INFO  : Returning Hive schema: Schema(fieldSchemas:null, properties:null)
+INFO  : Completed compiling command(queryId=hive_20171128092626_969dedbb-1f4f-4dc6-bd29-c01da1ae1e96); Time taken: 0.087 seconds
+INFO  : Executing command(queryId=hive_20171128092626_969dedbb-1f4f-4dc6-bd29-c01da1ae1e96): load data inpath  '/user/hive/warehouse/tmp/RevenueXProducto14676.txt' into table tmp_RevenueXProducto.RevenueXProducto_tmp
+INFO  : Starting task [Stage-0:MOVE] in serial mode
+INFO  : Loading data to table tmp_revenuexproducto.revenuexproducto_tmp from hdfs://HdfsHA/user/hive/warehouse/tmp/RevenueXProducto14676.txt
+INFO  : Starting task [Stage-1:STATS] in serial mode
+INFO  : Table tmp_revenuexproducto.revenuexproducto_tmp stats: [numFiles=10, numRows=0, totalSize=2842827083, rawDataSize=0]
+INFO  : Completed executing command(queryId=hive_20171128092626_969dedbb-1f4f-4dc6-bd29-c01da1ae1e96); Time taken: 0.204 seconds
+INFO  : OK
+No rows affected (0.358 seconds)
+Beeline version 1.1.0-cdh5.8.3 by Apache Hive
+Closing: 0: jdbc:hive2://edge-01.bimbo.dev:10000/default;principal=hive/_HOST@CLOUDERA
+rm: `/user/hive/warehouse/tmp/RevenueXProducto14677.txt': No such file or directory
+scan complete in 3ms
+Connecting to jdbc:hive2://edge-01.bimbo.dev:10000/default;principal=hive/_HOST@CLOUDERA
+Connected to: Apache Hive (version 1.1.0-cdh5.8.3)
+Driver: Hive JDBC (version 1.1.0-cdh5.8.3)
+Transaction isolation: TRANSACTION_REPEATABLE_READ
+INFO  : Compiling command(queryId=hive_20171128092626_0e2bf3fd-d781-4078-9258-9f3e068dc4ed): load data inpath  '/user/hive/warehouse/tmp/RevenueXProducto14677.txt' into table tmp_RevenueXProducto.RevenueXProducto_tmp
+INFO  : Semantic Analysis Completed
+INFO  : Returning Hive schema: Schema(fieldSchemas:null, properties:null)
+INFO  : Completed compiling command(queryId=hive_20171128092626_0e2bf3fd-d781-4078-9258-9f3e068dc4ed); Time taken: 0.091 seconds
+INFO  : Executing command(queryId=hive_20171128092626_0e2bf3fd-d781-4078-9258-9f3e068dc4ed): load data inpath  '/user/hive/warehouse/tmp/RevenueXProducto14677.txt' into table tmp_RevenueXProducto.RevenueXProducto_tmp
+INFO  : Starting task [Stage-0:MOVE] in serial mode
+INFO  : Loading data to table tmp_revenuexproducto.revenuexproducto_tmp from hdfs://HdfsHA/user/hive/warehouse/tmp/RevenueXProducto14677.txt
+INFO  : Starting task [Stage-1:STATS] in serial mode
+INFO  : Table tmp_revenuexproducto.revenuexproducto_tmp stats: [numFiles=11, numRows=0, totalSize=2860470347, rawDataSize=0]
+INFO  : Completed executing command(queryId=hive_20171128092626_0e2bf3fd-d781-4078-9258-9f3e068dc4ed); Time taken: 0.209 seconds
+INFO  : OK
+No rows affected (0.373 seconds)
+Beeline version 1.1.0-cdh5.8.3 by Apache Hive
+Closing: 0: jdbc:hive2://edge-01.bimbo.dev:10000/default;principal=hive/_HOST@CLOUDERA
+rm: `/user/hive/warehouse/tmp/RevenueXProducto14678.txt': No such file or directory
+scan complete in 3ms
+Connecting to jdbc:hive2://edge-01.bimbo.dev:10000/default;principal=hive/_HOST@CLOUDERA
+Connected to: Apache Hive (version 1.1.0-cdh5.8.3)
+Driver: Hive JDBC (version 1.1.0-cdh5.8.3)
+Transaction isolation: TRANSACTION_REPEATABLE_READ
+INFO  : Compiling command(queryId=hive_20171128092626_3022fae7-ae37-4ec7-9c4f-2b37951f1e6e): load data inpath  '/user/hive/warehouse/tmp/RevenueXProducto14678.txt' into table tmp_RevenueXProducto.RevenueXProducto_tmp
+INFO  : Semantic Analysis Completed
+INFO  : Returning Hive schema: Schema(fieldSchemas:null, properties:null)
+INFO  : Completed compiling command(queryId=hive_20171128092626_3022fae7-ae37-4ec7-9c4f-2b37951f1e6e); Time taken: 0.088 seconds
+INFO  : Executing command(queryId=hive_20171128092626_3022fae7-ae37-4ec7-9c4f-2b37951f1e6e): load data inpath  '/user/hive/warehouse/tmp/RevenueXProducto14678.txt' into table tmp_RevenueXProducto.RevenueXProducto_tmp
+INFO  : Starting task [Stage-0:MOVE] in serial mode
+INFO  : Loading data to table tmp_revenuexproducto.revenuexproducto_tmp from hdfs://HdfsHA/user/hive/warehouse/tmp/RevenueXProducto14678.txt
+INFO  : Starting task [Stage-1:STATS] in serial mode
+INFO  : Table tmp_revenuexproducto.revenuexproducto_tmp stats: [numFiles=12, numRows=0, totalSize=2901179600, rawDataSize=0]
+INFO  : Completed executing command(queryId=hive_20171128092626_3022fae7-ae37-4ec7-9c4f-2b37951f1e6e); Time taken: 0.205 seconds
+INFO  : OK
+No rows affected (0.378 seconds)
+Beeline version 1.1.0-cdh5.8.3 by Apache Hive
+Closing: 0: jdbc:hive2://edge-01.bimbo.dev:10000/default;principal=hive/_HOST@CLOUDERA
+rm: `/user/hive/warehouse/tmp/RevenueXProducto14681.txt': No such file or directory
+scan complete in 3ms
+Connecting to jdbc:hive2://edge-01.bimbo.dev:10000/default;principal=hive/_HOST@CLOUDERA
+Connected to: Apache Hive (version 1.1.0-cdh5.8.3)
+Driver: Hive JDBC (version 1.1.0-cdh5.8.3)
+Transaction isolation: TRANSACTION_REPEATABLE_READ
+INFO  : Compiling command(queryId=hive_20171128092727_f2f22312-709b-4e6b-8584-e8268a0b0b3b): load data inpath  '/user/hive/warehouse/tmp/RevenueXProducto14681.txt' into table tmp_RevenueXProducto.RevenueXProducto_tmp
+INFO  : Semantic Analysis Completed
+INFO  : Returning Hive schema: Schema(fieldSchemas:null, properties:null)
+INFO  : Completed compiling command(queryId=hive_20171128092727_f2f22312-709b-4e6b-8584-e8268a0b0b3b); Time taken: 0.088 seconds
+INFO  : Executing command(queryId=hive_20171128092727_f2f22312-709b-4e6b-8584-e8268a0b0b3b): load data inpath  '/user/hive/warehouse/tmp/RevenueXProducto14681.txt' into table tmp_RevenueXProducto.RevenueXProducto_tmp
+INFO  : Starting task [Stage-0:MOVE] in serial mode
+INFO  : Loading data to table tmp_revenuexproducto.revenuexproducto_tmp from hdfs://HdfsHA/user/hive/warehouse/tmp/RevenueXProducto14681.txt
+INFO  : Starting task [Stage-1:STATS] in serial mode
+INFO  : Table tmp_revenuexproducto.revenuexproducto_tmp stats: [numFiles=13, numRows=0, totalSize=2950427251, rawDataSize=0]
+INFO  : Completed executing command(queryId=hive_20171128092727_f2f22312-709b-4e6b-8584-e8268a0b0b3b); Time taken: 0.201 seconds
+INFO  : OK
+No rows affected (0.355 seconds)
+Beeline version 1.1.0-cdh5.8.3 by Apache Hive
+Closing: 0: jdbc:hive2://edge-01.bimbo.dev:10000/default;principal=hive/_HOST@CLOUDERA
+rm: `/user/hive/warehouse/tmp/RevenueXProducto14682.txt': No such file or directory
+scan complete in 2ms
+Connecting to jdbc:hive2://edge-01.bimbo.dev:10000/default;principal=hive/_HOST@CLOUDERA
+Connected to: Apache Hive (version 1.1.0-cdh5.8.3)
+Driver: Hive JDBC (version 1.1.0-cdh5.8.3)
+Transaction isolation: TRANSACTION_REPEATABLE_READ
+INFO  : Compiling command(queryId=hive_20171128092727_58ab930a-1857-4a96-b464-6c0c4685ff8f): load data inpath  '/user/hive/warehouse/tmp/RevenueXProducto14682.txt' into table tmp_RevenueXProducto.RevenueXProducto_tmp
+INFO  : Semantic Analysis Completed
+INFO  : Returning Hive schema: Schema(fieldSchemas:null, properties:null)
+INFO  : Completed compiling command(queryId=hive_20171128092727_58ab930a-1857-4a96-b464-6c0c4685ff8f); Time taken: 0.087 seconds
+INFO  : Executing command(queryId=hive_20171128092727_58ab930a-1857-4a96-b464-6c0c4685ff8f): load data inpath  '/user/hive/warehouse/tmp/RevenueXProducto14682.txt' into table tmp_RevenueXProducto.RevenueXProducto_tmp
+INFO  : Starting task [Stage-0:MOVE] in serial mode
+INFO  : Loading data to table tmp_revenuexproducto.revenuexproducto_tmp from hdfs://HdfsHA/user/hive/warehouse/tmp/RevenueXProducto14682.txt
+INFO  : Starting task [Stage-1:STATS] in serial mode
+INFO  : Table tmp_revenuexproducto.revenuexproducto_tmp stats: [numFiles=14, numRows=0, totalSize=2988331654, rawDataSize=0]
+INFO  : Completed executing command(queryId=hive_20171128092727_58ab930a-1857-4a96-b464-6c0c4685ff8f); Time taken: 0.2 seconds
+INFO  : OK
+No rows affected (0.352 seconds)
+Beeline version 1.1.0-cdh5.8.3 by Apache Hive
+Closing: 0: jdbc:hive2://edge-01.bimbo.dev:10000/default;principal=hive/_HOST@CLOUDERA
+rm: `/user/hive/warehouse/tmp/RevenueXProducto14683.txt': No such file or directory
+scan complete in 2ms
+Connecting to jdbc:hive2://edge-01.bimbo.dev:10000/default;principal=hive/_HOST@CLOUDERA
+Connected to: Apache Hive (version 1.1.0-cdh5.8.3)
+Driver: Hive JDBC (version 1.1.0-cdh5.8.3)
+Transaction isolation: TRANSACTION_REPEATABLE_READ
+INFO  : Compiling command(queryId=hive_20171128092727_40de0d68-d90f-4d5c-9e9e-b88d3633365e): load data inpath  '/user/hive/warehouse/tmp/RevenueXProducto14683.txt' into table tmp_RevenueXProducto.RevenueXProducto_tmp
+INFO  : Semantic Analysis Completed
+INFO  : Returning Hive schema: Schema(fieldSchemas:null, properties:null)
+INFO  : Completed compiling command(queryId=hive_20171128092727_40de0d68-d90f-4d5c-9e9e-b88d3633365e); Time taken: 0.103 seconds
+INFO  : Executing command(queryId=hive_20171128092727_40de0d68-d90f-4d5c-9e9e-b88d3633365e): load data inpath  '/user/hive/warehouse/tmp/RevenueXProducto14683.txt' into table tmp_RevenueXProducto.RevenueXProducto_tmp
+INFO  : Starting task [Stage-0:MOVE] in serial mode
+INFO  : Loading data to table tmp_revenuexproducto.revenuexproducto_tmp from hdfs://HdfsHA/user/hive/warehouse/tmp/RevenueXProducto14683.txt
+INFO  : Starting task [Stage-1:STATS] in serial mode
+INFO  : Table tmp_revenuexproducto.revenuexproducto_tmp stats: [numFiles=15, numRows=0, totalSize=3026572948, rawDataSize=0]
+INFO  : Completed executing command(queryId=hive_20171128092727_40de0d68-d90f-4d5c-9e9e-b88d3633365e); Time taken: 0.206 seconds
+INFO  : OK
+No rows affected (0.376 seconds)
+Beeline version 1.1.0-cdh5.8.3 by Apache Hive
+Closing: 0: jdbc:hive2://edge-01.bimbo.dev:10000/default;principal=hive/_HOST@CLOUDERA
+scan complete in 2ms
+Connecting to jdbc:hive2://edge-01.bimbo.dev:10000/default;principal=hive/_HOST@CLOUDERA
+Connected to: Apache Hive (version 1.1.0-cdh5.8.3)
+Driver: Hive JDBC (version 1.1.0-cdh5.8.3)
+Transaction isolation: TRANSACTION_REPEATABLE_READ
+Running init script /home/proyectos2/CANADA/Config/hive_init.hql
+No rows affected (0.059 seconds)
+No rows affected (0.002 seconds)
+No rows affected (0.003 seconds)
+No rows affected (0.003 seconds)
+No rows affected (0.002 seconds)
+No rows affected (0.002 seconds)
+No rows affected (0.002 seconds)
+No rows affected (0.002 seconds)
+No rows affected (0.003 seconds)
+INFO  : Compiling command(queryId=hive_20171128092727_933d84d3-dc4e-4831-aa18-fc84f200f750): truncate table bccan_xprs.RevenueXProducto
+INFO  : Semantic Analysis Completed
+INFO  : Returning Hive schema: Schema(fieldSchemas:null, properties:null)
+INFO  : Completed compiling command(queryId=hive_20171128092727_933d84d3-dc4e-4831-aa18-fc84f200f750); Time taken: 0.169 seconds
+INFO  : Concurrency mode is disabled, not creating a lock manager
+INFO  : Executing command(queryId=hive_20171128092727_933d84d3-dc4e-4831-aa18-fc84f200f750): truncate table bccan_xprs.RevenueXProducto
+INFO  : Starting task [Stage-0:DDL] in serial mode
+INFO  : Completed executing command(queryId=hive_20171128092727_933d84d3-dc4e-4831-aa18-fc84f200f750); Time taken: 2.329 seconds
+INFO  : OK
+No rows affected (2.507 seconds)
+INFO  : Compiling command(queryId=hive_20171128092727_d9bed133-8541-46e3-a59c-d9d930e7cf25): insert into bccan_xprs.RevenueXProducto partition(agency)
+select codigo_agencia,
+codigo_ruta,   
+tipo_ruta,
+fecha_venta,
+numero_documento,
+codigo_cliente,  
+codigo_producto,  
+cantidad_producto,
+sub_total_producto,
+trim(tablenumber) as tablenumber,
+descripcion_revenue,
+porcentaje_revenue,
+total_revenue,
+calculo_semanal,
+bmusuario,
+bmfechamod,
+storeday,
+agency
+from tmp_RevenueXProducto.RevenueXProducto_v
+INFO  : Semantic Analysis Completed
+INFO  : Returning Hive schema: Schema(fieldSchemas:[FieldSchema(name:codigo_agencia, type:int, comment:null), FieldSchema(name:codigo_ruta, type:string, comment:null), FieldSchema(name:tipo_ruta, type:int, comment:null), FieldSchema(name:fecha_venta, type:string, comment:null), FieldSchema(name:numero_documento, type:string, comment:null), FieldSchema(name:codigo_cliente, type:string, comment:null), FieldSchema(name:codigo_producto, type:int, comment:null), FieldSchema(name:cantidad_producto, type:int, comment:null), FieldSchema(name:sub_total_producto, type:double, comment:null), FieldSchema(name:tablenumber, type:string, comment:null), FieldSchema(name:descripcion_revenue, type:string, comment:null), FieldSchema(name:porcentaje_revenue, type:double, comment:null), FieldSchema(name:total_revenue, type:double, comment:null), FieldSchema(name:calculo_semanal, type:boolean, comment:null), FieldSchema(name:bmusuario, type:string, comment:null), FieldSchema(name:bmfechamod, type:string, comment:null), FieldSchema(name:storeday, type:string, comment:null), FieldSchema(name:agency, type:int, comment:null)], properties:null)
+INFO  : Completed compiling command(queryId=hive_20171128092727_d9bed133-8541-46e3-a59c-d9d930e7cf25); Time taken: 0.114 seconds
+INFO  : Concurrency mode is disabled, not creating a lock manager
+INFO  : Executing command(queryId=hive_20171128092727_d9bed133-8541-46e3-a59c-d9d930e7cf25): insert into bccan_xprs.RevenueXProducto partition(agency)
+select codigo_agencia,
+codigo_ruta,   
+tipo_ruta,
+fecha_venta,
+numero_documento,
+codigo_cliente,  
+codigo_producto,  
+cantidad_producto,
+sub_total_producto,
+trim(tablenumber) as tablenumber,
+descripcion_revenue,
+porcentaje_revenue,
+total_revenue,
+calculo_semanal,
+bmusuario,
+bmfechamod,
+storeday,
+agency
+from tmp_RevenueXProducto.RevenueXProducto_v
+INFO  : Query ID = hive_20171128092727_d9bed133-8541-46e3-a59c-d9d930e7cf25
+INFO  : Total jobs = 3
+INFO  : Launching Job 1 out of 3
+INFO  : Starting task [Stage-1:MAPRED] in parallel
+INFO  : Number of reduce tasks is set to 0 since there's no reduce operator
+INFO  : number of splits:11
+INFO  : Submitting tokens for job: job_1505404125478_162662
+INFO  : Kind: HDFS_DELEGATION_TOKEN, Service: ha-hdfs:HdfsHA, Ident: (token for hive: HDFS_DELEGATION_TOKEN owner=hive/edge-01.bimbo.dev@CLOUDERA, renewer=yarn, realUser=, issueDate=1511882864144, maxDate=1512487664144, sequenceNumber=547322, masterKeyId=400)
+INFO  : The url to track the job: http://master-01.bimbo.dev:8088/proxy/application_1505404125478_162662/
+INFO  : Starting Job = job_1505404125478_162662, Tracking URL = http://master-01.bimbo.dev:8088/proxy/application_1505404125478_162662/
+INFO  : Kill Command = /opt/cloudera/parcels/CDH-5.8.3-1.cdh5.8.3.p0.2/lib/hadoop/bin/hadoop job  -kill job_1505404125478_162662
+INFO  : Hadoop job information for Stage-1: number of mappers: 11; number of reducers: 0
+INFO  : 2017-11-28 09:27:52,011 Stage-1 map = 0%,  reduce = 0%
+INFO  : 2017-11-28 09:28:07,343 Stage-1 map = 2%,  reduce = 0%, Cumulative CPU 16.19 sec
+INFO  : 2017-11-28 09:28:22,663 Stage-1 map = 5%,  reduce = 0%, Cumulative CPU 92.35 sec
+INFO  : 2017-11-28 09:28:23,685 Stage-1 map = 15%,  reduce = 0%, Cumulative CPU 99.69 sec
+INFO  : 2017-11-28 09:28:28,789 Stage-1 map = 20%,  reduce = 0%, Cumulative CPU 131.68 sec
+INFO  : 2017-11-28 09:28:30,832 Stage-1 map = 23%,  reduce = 0%, Cumulative CPU 150.9 sec
+INFO  : 2017-11-28 09:28:33,909 Stage-1 map = 27%,  reduce = 0%, Cumulative CPU 173.63 sec
+INFO  : 2017-11-28 09:28:34,931 Stage-1 map = 30%,  reduce = 0%, Cumulative CPU 177.04 sec
+INFO  : 2017-11-28 09:28:35,952 Stage-1 map = 36%,  reduce = 0%, Cumulative CPU 197.59 sec
+INFO  : 2017-11-28 09:28:36,974 Stage-1 map = 40%,  reduce = 0%, Cumulative CPU 202.1 sec
+INFO  : 2017-11-28 09:28:39,017 Stage-1 map = 45%,  reduce = 0%, Cumulative CPU 208.68 sec
+INFO  : 2017-11-28 09:28:40,038 Stage-1 map = 47%,  reduce = 0%, Cumulative CPU 240.77 sec
+INFO  : 2017-11-28 09:28:43,100 Stage-1 map = 49%,  reduce = 0%, Cumulative CPU 272.4 sec
+INFO  : 2017-11-28 09:28:46,162 Stage-1 map = 50%,  reduce = 0%, Cumulative CPU 299.39 sec
+INFO  : 2017-11-28 09:28:48,203 Stage-1 map = 56%,  reduce = 0%, Cumulative CPU 313.98 sec
+INFO  : 2017-11-28 09:28:49,225 Stage-1 map = 57%,  reduce = 0%, Cumulative CPU 324.75 sec
+INFO  : 2017-11-28 09:28:51,266 Stage-1 map = 63%,  reduce = 0%, Cumulative CPU 337.95 sec
+INFO  : 2017-11-28 09:28:52,287 Stage-1 map = 72%,  reduce = 0%, Cumulative CPU 346.55 sec
+INFO  : 2017-11-28 09:28:54,327 Stage-1 map = 78%,  reduce = 0%, Cumulative CPU 358.12 sec
+INFO  : 2017-11-28 09:28:55,347 Stage-1 map = 83%,  reduce = 0%, Cumulative CPU 365.31 sec
+INFO  : 2017-11-28 09:29:03,518 Stage-1 map = 87%,  reduce = 0%, Cumulative CPU 402.68 sec
+INFO  : 2017-11-28 09:29:06,577 Stage-1 map = 92%,  reduce = 0%, Cumulative CPU 415.87 sec
+INFO  : 2017-11-28 09:29:10,658 Stage-1 map = 100%,  reduce = 0%, Cumulative CPU 432.65 sec
+INFO  : MapReduce Total cumulative CPU time: 7 minutes 12 seconds 650 msec
+INFO  : Ended Job = job_1505404125478_162662
+INFO  : Starting task [Stage-7:CONDITIONAL] in parallel
+INFO  : Stage-4 is filtered out by condition resolver.
+INFO  : Stage-3 is filtered out by condition resolver.
+INFO  : Stage-5 is selected by condition resolver.
+INFO  : Launching Job 3 out of 3
+INFO  : Starting task [Stage-5:MAPRED] in parallel
+INFO  : Number of reduce tasks is set to 0 since there's no reduce operator
+INFO  : number of splits:3
+INFO  : Submitting tokens for job: job_1505404125478_162663
+INFO  : Kind: HDFS_DELEGATION_TOKEN, Service: ha-hdfs:HdfsHA, Ident: (token for hive: HDFS_DELEGATION_TOKEN owner=hive/edge-01.bimbo.dev@CLOUDERA, renewer=yarn, realUser=, issueDate=1511882954155, maxDate=1512487754155, sequenceNumber=547323, masterKeyId=400)
+INFO  : The url to track the job: http://master-01.bimbo.dev:8088/proxy/application_1505404125478_162663/
+INFO  : Starting Job = job_1505404125478_162663, Tracking URL = http://master-01.bimbo.dev:8088/proxy/application_1505404125478_162663/
+INFO  : Kill Command = /opt/cloudera/parcels/CDH-5.8.3-1.cdh5.8.3.p0.2/lib/hadoop/bin/hadoop job  -kill job_1505404125478_162663
+INFO  : Hadoop job information for Stage-5: number of mappers: 3; number of reducers: 0
+INFO  : 2017-11-28 09:29:22,407 Stage-5 map = 0%,  reduce = 0%
+INFO  : 2017-11-28 09:29:41,805 Stage-5 map = 7%,  reduce = 0%, Cumulative CPU 23.45 sec
+INFO  : 2017-11-28 09:29:44,867 Stage-5 map = 20%,  reduce = 0%, Cumulative CPU 48.8 sec
+INFO  : 2017-11-28 09:29:47,929 Stage-5 map = 41%,  reduce = 0%, Cumulative CPU 68.62 sec
+INFO  : 2017-11-28 09:29:50,992 Stage-5 map = 62%,  reduce = 0%, Cumulative CPU 79.11 sec
+INFO  : 2017-11-28 09:29:54,054 Stage-5 map = 81%,  reduce = 0%, Cumulative CPU 87.51 sec
+INFO  : 2017-11-28 09:30:00,176 Stage-5 map = 100%,  reduce = 0%, Cumulative CPU 95.45 sec
+INFO  : MapReduce Total cumulative CPU time: 1 minutes 35 seconds 450 msec
+INFO  : Ended Job = job_1505404125478_162663
+INFO  : Starting task [Stage-6:MOVE] in serial mode
+INFO  : Moving data to: hdfs://HdfsHA/user/hive/warehouse/bccan_xprs.db/revenuexproducto/.hive-staging_hive_2017-11-28_09-27-43_948_235984164950707917-22/-ext-10000/agency=14661 from hdfs://HdfsHA/user/hive/warehouse/bccan_xprs.db/revenuexproducto/.hive-staging_hive_2017-11-28_09-27-43_948_235984164950707917-22/-ext-10002/agency=14661
+INFO  : Moving data to: hdfs://HdfsHA/user/hive/warehouse/bccan_xprs.db/revenuexproducto/.hive-staging_hive_2017-11-28_09-27-43_948_235984164950707917-22/-ext-10000/agency=14662 from hdfs://HdfsHA/user/hive/warehouse/bccan_xprs.db/revenuexproducto/.hive-staging_hive_2017-11-28_09-27-43_948_235984164950707917-22/-ext-10002/agency=14662
+INFO  : Moving data to: hdfs://HdfsHA/user/hive/warehouse/bccan_xprs.db/revenuexproducto/.hive-staging_hive_2017-11-28_09-27-43_948_235984164950707917-22/-ext-10000/agency=14666 from hdfs://HdfsHA/user/hive/warehouse/bccan_xprs.db/revenuexproducto/.hive-staging_hive_2017-11-28_09-27-43_948_235984164950707917-22/-ext-10002/agency=14666
+INFO  : Moving data to: hdfs://HdfsHA/user/hive/warehouse/bccan_xprs.db/revenuexproducto/.hive-staging_hive_2017-11-28_09-27-43_948_235984164950707917-22/-ext-10000/agency=14667 from hdfs://HdfsHA/user/hive/warehouse/bccan_xprs.db/revenuexproducto/.hive-staging_hive_2017-11-28_09-27-43_948_235984164950707917-22/-ext-10002/agency=14667
+INFO  : Moving data to: hdfs://HdfsHA/user/hive/warehouse/bccan_xprs.db/revenuexproducto/.hive-staging_hive_2017-11-28_09-27-43_948_235984164950707917-22/-ext-10000/agency=14674 from hdfs://HdfsHA/user/hive/warehouse/bccan_xprs.db/revenuexproducto/.hive-staging_hive_2017-11-28_09-27-43_948_235984164950707917-22/-ext-10002/agency=14674
+INFO  : Moving data to: hdfs://HdfsHA/user/hive/warehouse/bccan_xprs.db/revenuexproducto/.hive-staging_hive_2017-11-28_09-27-43_948_235984164950707917-22/-ext-10000/agency=14675 from hdfs://HdfsHA/user/hive/warehouse/bccan_xprs.db/revenuexproducto/.hive-staging_hive_2017-11-28_09-27-43_948_235984164950707917-22/-ext-10002/agency=14675
+INFO  : Moving data to: hdfs://HdfsHA/user/hive/warehouse/bccan_xprs.db/revenuexproducto/.hive-staging_hive_2017-11-28_09-27-43_948_235984164950707917-22/-ext-10000/agency=14676 from hdfs://HdfsHA/user/hive/warehouse/bccan_xprs.db/revenuexproducto/.hive-staging_hive_2017-11-28_09-27-43_948_235984164950707917-22/-ext-10002/agency=14676
+INFO  : Moving data to: hdfs://HdfsHA/user/hive/warehouse/bccan_xprs.db/revenuexproducto/.hive-staging_hive_2017-11-28_09-27-43_948_235984164950707917-22/-ext-10000/agency=14677 from hdfs://HdfsHA/user/hive/warehouse/bccan_xprs.db/revenuexproducto/.hive-staging_hive_2017-11-28_09-27-43_948_235984164950707917-22/-ext-10002/agency=14677
+INFO  : Moving data to: hdfs://HdfsHA/user/hive/warehouse/bccan_xprs.db/revenuexproducto/.hive-staging_hive_2017-11-28_09-27-43_948_235984164950707917-22/-ext-10000/agency=14678 from hdfs://HdfsHA/user/hive/warehouse/bccan_xprs.db/revenuexproducto/.hive-staging_hive_2017-11-28_09-27-43_948_235984164950707917-22/-ext-10002/agency=14678
+INFO  : Moving data to: hdfs://HdfsHA/user/hive/warehouse/bccan_xprs.db/revenuexproducto/.hive-staging_hive_2017-11-28_09-27-43_948_235984164950707917-22/-ext-10000/agency=14681 from hdfs://HdfsHA/user/hive/warehouse/bccan_xprs.db/revenuexproducto/.hive-staging_hive_2017-11-28_09-27-43_948_235984164950707917-22/-ext-10002/agency=14681
+INFO  : Moving data to: hdfs://HdfsHA/user/hive/warehouse/bccan_xprs.db/revenuexproducto/.hive-staging_hive_2017-11-28_09-27-43_948_235984164950707917-22/-ext-10000/agency=14682 from hdfs://HdfsHA/user/hive/warehouse/bccan_xprs.db/revenuexproducto/.hive-staging_hive_2017-11-28_09-27-43_948_235984164950707917-22/-ext-10002/agency=14682
+INFO  : Moving data to: hdfs://HdfsHA/user/hive/warehouse/bccan_xprs.db/revenuexproducto/.hive-staging_hive_2017-11-28_09-27-43_948_235984164950707917-22/-ext-10000/agency=14683 from hdfs://HdfsHA/user/hive/warehouse/bccan_xprs.db/revenuexproducto/.hive-staging_hive_2017-11-28_09-27-43_948_235984164950707917-22/-ext-10002/agency=14683
+INFO  : Starting task [Stage-0:MOVE] in serial mode
+INFO  : Loading data to table bccan_xprs.revenuexproducto partition (agency=null) from hdfs://HdfsHA/user/hive/warehouse/bccan_xprs.db/revenuexproducto/.hive-staging_hive_2017-11-28_09-27-43_948_235984164950707917-22/-ext-10000
+INFO  : 	 Time taken for load dynamic partitions : 2678
+INFO  : 	Loading partition {agency=14667}
+INFO  : 	Loading partition {agency=14677}
+INFO  : 	Loading partition {agency=14661}
+INFO  : 	Loading partition {agency=14664}
+INFO  : 	Loading partition {agency=14666}
+INFO  : 	Loading partition {agency=14676}
+INFO  : 	Loading partition {agency=14682}
+INFO  : 	Loading partition {agency=14665}
+INFO  : 	Loading partition {agency=14672}
+INFO  : 	Loading partition {agency=14674}
+INFO  : 	Loading partition {agency=14675}
+INFO  : 	Loading partition {agency=14678}
+INFO  : 	Loading partition {agency=14662}
+INFO  : 	Loading partition {agency=14683}
+INFO  : 	Loading partition {agency=14681}
+INFO  : 	 Time taken for adding to write entity : 1
+INFO  : Starting task [Stage-2:STATS] in serial mode
+INFO  : Partition bccan_xprs.revenuexproducto{agency=14661} stats: [numFiles=1, numRows=791080, totalSize=14199837, rawDataSize=13448360]
+INFO  : Partition bccan_xprs.revenuexproducto{agency=14662} stats: [numFiles=3, numRows=2875322, totalSize=56486409, rawDataSize=48880474]
+INFO  : Partition bccan_xprs.revenuexproducto{agency=14664} stats: [numFiles=1, numRows=1847864, totalSize=30951729, rawDataSize=31413688]
+INFO  : Partition bccan_xprs.revenuexproducto{agency=14665} stats: [numFiles=1, numRows=3282421, totalSize=70653648, rawDataSize=55801157]
+INFO  : Partition bccan_xprs.revenuexproducto{agency=14666} stats: [numFiles=3, numRows=3572084, totalSize=60716257, rawDataSize=60725428]
+INFO  : Partition bccan_xprs.revenuexproducto{agency=14667} stats: [numFiles=2, numRows=2837491, totalSize=40363519, rawDataSize=48237347]
+INFO  : Partition bccan_xprs.revenuexproducto{agency=14672} stats: [numFiles=1, numRows=1398673, totalSize=21893797, rawDataSize=23777441]
+INFO  : Partition bccan_xprs.revenuexproducto{agency=14674} stats: [numFiles=1, numRows=193433, totalSize=1964635, rawDataSize=3288361]
+INFO  : Partition bccan_xprs.revenuexproducto{agency=14675} stats: [numFiles=1, numRows=379856, totalSize=3610422, rawDataSize=6457552]
+INFO  : Partition bccan_xprs.revenuexproducto{agency=14676} stats: [numFiles=1, numRows=232900, totalSize=2336177, rawDataSize=3959300]
+INFO  : Partition bccan_xprs.revenuexproducto{agency=14677} stats: [numFiles=1, numRows=103498, totalSize=1181847, rawDataSize=1759466]
+INFO  : Partition bccan_xprs.revenuexproducto{agency=14678} stats: [numFiles=1, numRows=241108, totalSize=2373972, rawDataSize=4098836]
+INFO  : Partition bccan_xprs.revenuexproducto{agency=14681} stats: [numFiles=1, numRows=288882, totalSize=2740423, rawDataSize=4910994]
+INFO  : Partition bccan_xprs.revenuexproducto{agency=14682} stats: [numFiles=1, numRows=224066, totalSize=2238166, rawDataSize=3809122]
+INFO  : Partition bccan_xprs.revenuexproducto{agency=14683} stats: [numFiles=1, numRows=225337, totalSize=2361459, rawDataSize=3830729]
+INFO  : MapReduce Jobs Launched: 
+INFO  : Stage-Stage-1: Map: 11   Cumulative CPU: 432.65 sec   HDFS Read: 3027714254 HDFS Write: 276276221 SUCCESS
+INFO  : Stage-Stage-5: Map: 3   Cumulative CPU: 95.45 sec   HDFS Read: 85727153 HDFS Write: 123499174 SUCCESS
+INFO  : Total MapReduce CPU Time Spent: 8 minutes 48 seconds 100 msec
+INFO  : Completed executing command(queryId=hive_20171128092727_d9bed133-8541-46e3-a59c-d9d930e7cf25); Time taken: 141.57 seconds
+INFO  : OK
+No rows affected (141.694 seconds)
+INFO  : Compiling command(queryId=hive_20171128093030_0a02efdc-d71b-459e-9124-90f6ce523aa5): drop table if exists STG_DSD_Canada.RevenueXProducto_HIST
+INFO  : Semantic Analysis Completed
+INFO  : Returning Hive schema: Schema(fieldSchemas:null, properties:null)
+INFO  : Completed compiling command(queryId=hive_20171128093030_0a02efdc-d71b-459e-9124-90f6ce523aa5); Time taken: 0.116 seconds
+INFO  : Concurrency mode is disabled, not creating a lock manager
+INFO  : Executing command(queryId=hive_20171128093030_0a02efdc-d71b-459e-9124-90f6ce523aa5): drop table if exists STG_DSD_Canada.RevenueXProducto_HIST
+INFO  : Starting task [Stage-0:DDL] in serial mode
+INFO  : Completed executing command(queryId=hive_20171128093030_0a02efdc-d71b-459e-9124-90f6ce523aa5); Time taken: 0.068 seconds
+INFO  : OK
+No rows affected (0.19 seconds)
+INFO  : Compiling command(queryId=hive_20171128093030_960593a5-f7db-4761-b0fa-86f254f99145): create table STG_DSD_Canada.RevenueXProducto_HIST as select * from bccan_xprs.RevenueXProducto
+INFO  : Semantic Analysis Completed
+INFO  : Returning Hive schema: Schema(fieldSchemas:[FieldSchema(name:revenuexproducto.codigo_agencia, type:int, comment:null), FieldSchema(name:revenuexproducto.codigo_ruta, type:string, comment:null), FieldSchema(name:revenuexproducto.tipo_ruta, type:int, comment:null), FieldSchema(name:revenuexproducto.fecha_venta, type:string, comment:null), FieldSchema(name:revenuexproducto.numero_documento, type:string, comment:null), FieldSchema(name:revenuexproducto.codigo_cliente, type:string, comment:null), FieldSchema(name:revenuexproducto.codigo_producto, type:int, comment:null), FieldSchema(name:revenuexproducto.cantidad_producto, type:int, comment:null), FieldSchema(name:revenuexproducto.sub_total_producto, type:double, comment:null), FieldSchema(name:revenuexproducto.tablenumber, type:string, comment:null), FieldSchema(name:revenuexproducto.descripcion_revenue, type:string, comment:null), FieldSchema(name:revenuexproducto.porcentaje_revenue, type:double, comment:null), FieldSchema(name:revenuexproducto.total_revenue, type:double, comment:null), FieldSchema(name:revenuexproducto.calculo_semanal, type:boolean, comment:null), FieldSchema(name:revenuexproducto.bmusuario, type:string, comment:null), FieldSchema(name:revenuexproducto.bmfechamod, type:string, comment:null), FieldSchema(name:revenuexproducto.storeday, type:string, comment:null), FieldSchema(name:revenuexproducto.agency, type:int, comment:null)], properties:null)
+INFO  : Completed compiling command(queryId=hive_20171128093030_960593a5-f7db-4761-b0fa-86f254f99145); Time taken: 0.173 seconds
+INFO  : Concurrency mode is disabled, not creating a lock manager
+INFO  : Executing command(queryId=hive_20171128093030_960593a5-f7db-4761-b0fa-86f254f99145): create table STG_DSD_Canada.RevenueXProducto_HIST as select * from bccan_xprs.RevenueXProducto
+INFO  : Query ID = hive_20171128093030_960593a5-f7db-4761-b0fa-86f254f99145
+INFO  : Total jobs = 3
+INFO  : Launching Job 1 out of 3
+INFO  : Starting task [Stage-1:MAPRED] in parallel
+INFO  : Number of reduce tasks is set to 0 since there's no reduce operator
+INFO  : number of splits:3
+INFO  : Submitting tokens for job: job_1505404125478_162664
+INFO  : Kind: HDFS_DELEGATION_TOKEN, Service: ha-hdfs:HdfsHA, Ident: (token for hive: HDFS_DELEGATION_TOKEN owner=hive/edge-01.bimbo.dev@CLOUDERA, renewer=yarn, realUser=, issueDate=1511883006136, maxDate=1512487806136, sequenceNumber=547324, masterKeyId=400)
+INFO  : The url to track the job: http://master-01.bimbo.dev:8088/proxy/application_1505404125478_162664/
+INFO  : Starting Job = job_1505404125478_162664, Tracking URL = http://master-01.bimbo.dev:8088/proxy/application_1505404125478_162664/
+INFO  : Kill Command = /opt/cloudera/parcels/CDH-5.8.3-1.cdh5.8.3.p0.2/lib/hadoop/bin/hadoop job  -kill job_1505404125478_162664
+INFO  : Hadoop job information for Stage-1: number of mappers: 3; number of reducers: 0
+INFO  : 2017-11-28 09:30:14,405 Stage-1 map = 0%,  reduce = 0%
+INFO  : 2017-11-28 09:30:29,734 Stage-1 map = 2%,  reduce = 0%, Cumulative CPU 9.96 sec
+INFO  : 2017-11-28 09:30:35,878 Stage-1 map = 5%,  reduce = 0%, Cumulative CPU 31.31 sec
+INFO  : 2017-11-28 09:30:38,948 Stage-1 map = 8%,  reduce = 0%, Cumulative CPU 49.14 sec
+INFO  : 2017-11-28 09:30:43,033 Stage-1 map = 28%,  reduce = 0%, Cumulative CPU 64.23 sec
+INFO  : 2017-11-28 09:30:45,076 Stage-1 map = 54%,  reduce = 0%, Cumulative CPU 71.41 sec
+INFO  : 2017-11-28 09:30:48,141 Stage-1 map = 60%,  reduce = 0%, Cumulative CPU 82.61 sec
+INFO  : 2017-11-28 09:30:51,215 Stage-1 map = 80%,  reduce = 0%, Cumulative CPU 94.61 sec
+INFO  : 2017-11-28 09:30:57,343 Stage-1 map = 86%,  reduce = 0%, Cumulative CPU 102.42 sec
+INFO  : 2017-11-28 09:31:03,475 Stage-1 map = 92%,  reduce = 0%, Cumulative CPU 109.18 sec
+INFO  : 2017-11-28 09:31:12,662 Stage-1 map = 97%,  reduce = 0%, Cumulative CPU 119.62 sec
+INFO  : 2017-11-28 09:31:15,728 Stage-1 map = 98%,  reduce = 0%, Cumulative CPU 123.02 sec
+INFO  : 2017-11-28 09:31:17,770 Stage-1 map = 100%,  reduce = 0%, Cumulative CPU 126.31 sec
+INFO  : MapReduce Total cumulative CPU time: 2 minutes 6 seconds 310 msec
+INFO  : Ended Job = job_1505404125478_162664
+INFO  : Starting task [Stage-7:CONDITIONAL] in parallel
+INFO  : Stage-4 is selected by condition resolver.
+INFO  : Stage-3 is filtered out by condition resolver.
+INFO  : Stage-5 is filtered out by condition resolver.
+INFO  : Starting task [Stage-4:MOVE] in serial mode
+INFO  : Moving data to: hdfs://HdfsHA/user/hive/warehouse/stg_dsd_canada.db/.hive-staging_hive_2017-11-28_09-30-05_845_2965962572600722979-22/-ext-10001 from hdfs://HdfsHA/user/hive/warehouse/stg_dsd_canada.db/.hive-staging_hive_2017-11-28_09-30-05_845_2965962572600722979-22/-ext-10003
+INFO  : Starting task [Stage-0:MOVE] in serial mode
+INFO  : Moving data to: hdfs://HdfsHA/user/hive/warehouse/stg_dsd_canada.db/revenuexproducto_hist from hdfs://HdfsHA/user/hive/warehouse/stg_dsd_canada.db/.hive-staging_hive_2017-11-28_09-30-05_845_2965962572600722979-22/-ext-10001
+INFO  : Starting task [Stage-8:DDL] in serial mode
+INFO  : Starting task [Stage-2:STATS] in serial mode
+INFO  : Table stg_dsd_canada.revenuexproducto_hist stats: [numFiles=3, numRows=18494015, totalSize=2943876582, rawDataSize=2925382567]
+INFO  : MapReduce Jobs Launched: 
+INFO  : Stage-Stage-1: Map: 3   Cumulative CPU: 126.31 sec   HDFS Read: 314138735 HDFS Write: 2943876895 SUCCESS
+INFO  : Total MapReduce CPU Time Spent: 2 minutes 6 seconds 310 msec
+INFO  : Completed executing command(queryId=hive_20171128093030_960593a5-f7db-4761-b0fa-86f254f99145); Time taken: 76.2 seconds
+INFO  : OK
+No rows affected (76.381 seconds)
+Closing: 0: jdbc:hive2://edge-01.bimbo.dev:10000/default;principal=hive/_HOST@CLOUDERA
+./masterShell.sh: line 4: 0:: command not found

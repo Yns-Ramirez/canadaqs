@@ -23,12 +23,8 @@ agency
 from tmp_RevenueXProducto.RevenueXProducto_v;
 
 
-
 ---- This is a temporary process ----
+drop table if exists STG_DSD_Canada.RevenueXProducto_HIST;
 
-create table STG_DSD_Canada.RevenueXProducto_HIST 
-ROW FORMAT DELIMITED FIELDS TERMINATED BY '|'
-LINES TERMINATED BY '\n'
-location 's3a://devbimboaws/DEV_CANADA_IC/Data/stg_dsd_canada/RevenueXProducto_HIST'
-as select * from bccan_xprs.RevenueXProducto;
+create table STG_DSD_Canada.RevenueXProducto_HIST as select * from bccan_xprs.RevenueXProducto;
 
