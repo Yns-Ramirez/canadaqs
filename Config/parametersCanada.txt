@@ -1,0 +1,4 @@
+BEELINE_URL="beeline -u 'jdbc:hive2://edge-01.bimbo.dev:10000/default;principal=hive/_HOST@CLOUDERA' "
+IMPALA_STRING_CONN="impala-shell -i edge-02.bimbo.dev:25003 "
+HQL_INIT="$HOME/Canada/Config/hive_init.hql"
+

@@ -1,5 +1,5 @@
 #/bin/bash
 
-`$HOME/CANADA/revenueXproducto/scripts/getFilesSqoop.sh`
-`$HOME/CANADA/revenueXproducto/scripts/execLoadFilesProcess.sh`
+`$HOME/Canada/REVENUEXPRODUCTO_HIST/scripts/getFilesSqoop.sh`
+`$HOME/Canada/REVENUEXPRODUCTO_HIST/scripts/execLoadFilesProcess.sh`
 

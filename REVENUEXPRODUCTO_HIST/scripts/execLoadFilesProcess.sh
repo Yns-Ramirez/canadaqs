@@ -1,13 +1,13 @@
 #/bin/bash
 
-source $HOME/CANADA/Config/parametersCanada.txt
-DB_CONN="$HOME/CANADA/revenueXproducto/files/dbConn.txt"
+source $HOME/Canada/Config/parametersCanada.txt
+DB_CONN="$HOME/Canada/REVENUEXPRODUCTO_HIST/files/dbConn.txt"
 
 BASE_DIR=$(dirname $0)
 DDL_DIRECTORY="$BASE_DIR/../ddl/"
 CREATE_OBJ="createTables.hql"
 LOAD_REV_PROD="loadRevenueProduct.hql"
-DIR_HQL_SQL="hql_sql/"
+DIR_HQL_SQL="/home/proyectos2/Canada/REVENUEXPRODUCTO_HIST/scripts/hql_sql/"
 LOAD_DATA_INPATH="load data inpath "
 FILES_PATH_REV_PROD="$BASE_DIR/../files/agencyFiles"
 
