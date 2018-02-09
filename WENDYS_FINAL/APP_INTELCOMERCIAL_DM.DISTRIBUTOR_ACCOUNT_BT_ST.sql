@@ -1,3 +1,5 @@
+drop table if exists APP_INTELCOMERCIAL_DM.DISTRIBUTOR_ACCOUNT_BT_ST;
+
 CREATE table if not exists APP_INTELCOMERCIAL_DM.DISTRIBUTOR_ACCOUNT_BT_ST
 AS
 SELECT 
@@ -11,7 +13,7 @@ SELECT
      ,b.BillToZipCode 
      ,b.BillToCountry                
      ,a.ShipToNumber          
-     ,NULL AS ShipToSiteNumber
+     ,cast(if(1=1,null,null)as int) AS ShipToSiteNumber
      ,a.ShipToName1
      ,a.ShipToAddress1
      ,a.ShipToAddress2
@@ -22,7 +24,7 @@ SELECT
 FROM
      (
           SELECT 
-                HCSUA.LOCATION                         AS BILLTONUMBER
+                HCSUA.`LOCATION`                         AS BILLTONUMBER
                ,HCA.ACCOUNT_NUMBER                     AS SHIPTONUMBER          
                ,COALESCE(HCA.ACCOUNT_NAME,'UNASSIGNED')AS SHIPTONAME1
                ,HLO.ADDRESS1                           AS SHIPTOADDRESS1
@@ -53,7 +55,7 @@ FROM
      INNER JOIN
                (
                     SELECT 
-                          HCSUA.LOCATION                         AS BILLTONUMBER
+                          HCSUA.`LOCATION`                         AS BILLTONUMBER
                          ,HCA.ACCOUNT_NUMBER                     AS BILLTONUMBER2          
                          ,COALESCE(HCA.ACCOUNT_NAME,'UNASSIGNED')AS BILLTONAME1
                          ,HLO.ADDRESS1                           AS BILLTOADDRESS1

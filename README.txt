@@ -1,7 +1,7 @@
 Desarrollo de tablas a ser consumidas por Qlik Sense Canada
 
 # Run On Demand
-nohup java -cp ~/OracleExtractor/Bin/V11/Bimbo-Scheduler-1.0.0.jar com.twobig.bimbo.schedules.task.OrchestratorTask ~/OracleExtractor/Tasks/OrchestratorTask/canadaTask/canadaTask.json > canada.manual.out &
+nohup java -cp ~/OracleExtractor/Bin/V11/Bimbo-Scheduler-1.0.0.jar com.twobig.bimbo.schedules.task.OrchestratorTask ~/OracleExtractor/Tasks/OrchestratorTask/canadaTask/vista.json > canada.manual.out &
 
 
 # Location for Orchestrator Log
