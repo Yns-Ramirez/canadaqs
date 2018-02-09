@@ -1,33 +1,25 @@
 CREATE VIEW IF NOT EXISTS APP_INTELCOMERCIAL_DM.DISTRIBUTOR_ACCOUNT_VF
--- AUTHOR:     GERARDO G�MEZ
--- DATE:       DICEMBER, 2017
--- MODIFIED:   FEBRUARY, 2018
--- OBJETIVE:   FINAL INFORMATION VIEW
--- OBJETIVE:   ADD QUEBEC
 AS
-
-
 SELECT
-       Customer_ID                  AS ShipTo
-      ,Doc_Number                   AS InvoiceNumber
-     ,Bill_Num                          AS LineNumber
-     ,'  '                                       AS CreditMemoNumber
-     ,Ship_To                            AS DistributorCustomerID
-     ,Sales_Center                    AS DistributorCenterID
-     ,Product_ID                        AS DistributorProductID
-     ,'  '                                       AS GTIN
-     ,'  '                                       AS SellUOM
-     ,Bill_Date                            AS InvoiceDate
-     ,'  '                                       AS OrderDate
-     ,'  '                                       AS ShippingDate
-     ,'  '                                       AS ScheduledDeliveryDate
-     ,'  '                                       AS ActualDeliveryDate
-     ,Net_Invoice_Qty               AS OrderQuantity
-     ,Gross_Invoice_Qty           AS OriginalShippedQuantity
-     ,Price                                 AS UnitPrice
-     ,Total_Sales                       AS ExtendedPrice
+       Customer_ID AS ShipTo
+      ,Doc_Number AS InvoiceNumber
+     ,Bill_Num AS LineNumber
+     ,'  ' AS CreditMemoNumber
+     ,Ship_To AS DistributorCustomerID
+     ,Sales_Center AS DistributorCenterID
+     ,Product_ID AS DistributorProductID
+     ,'  ' AS GTIN
+     ,'  ' AS SellUOM
+     ,Bill_Date AS InvoiceDate
+     ,'  ' AS OrderDate
+     ,'  ' AS ShippingDate
+     ,'  ' AS ScheduledDeliveryDate
+     ,'  ' AS ActualDeliveryDate
+     ,Net_Invoice_Qty AS OrderQuantity
+     ,Gross_Invoice_Qty AS OriginalShippedQuantity
+     ,Price AS UnitPrice
+     ,Total_Sales AS ExtendedPrice
 FROM STG_DSD_CANADA.T_ORDER_FINAL
-
 WHERE Bill_Date >= TO_DATE(DATE_SUB(FROM_UNIXTIME(UNIX_TIMESTAMP()),1))
 AND CUSTOMER_ID IN
                     (
