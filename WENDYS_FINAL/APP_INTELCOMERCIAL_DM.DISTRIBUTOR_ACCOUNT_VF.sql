@@ -22,12 +22,11 @@ SELECT
      ,Price AS UnitPrice
      ,Total_Sales AS ExtendedPrice
 FROM STG_DSD_CANADA.T_ORDER_FINAL
-WHERE Bill_Date >= TO_DATE(DATE_SUB(FROM_UNIXTIME(UNIX_TIMESTAMP()),1))
-AND CUSTOMER_ID IN
-                    (
-                         SELECT Customer_ID FROM tmp_ic.customers_by_route_all_test
-                         WHERE CUSTOMER_NAME LIKE '%WENDY%'
-                         GROUP BY 1
-                    )
+WHERE Bill_Date >= TO_DATE(DATE_SUB(FROM_UNIXTIME(UNIX_TIMESTAMP()),32))
+AND Customer_ID IN(
+SELECT Customer_ID FROM STG_DSD_CANADA.t_customer_master
+WHERE CUSTOMER_NAME LIKE '%WENDY%' GROUP BY 1)
 AND SALES_CENTER  NOT IN ('-1')
 GROUP BY 1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18;
+
+
