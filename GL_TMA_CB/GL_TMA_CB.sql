@@ -1,6 +1,8 @@
 ---la  tabla erp_pgbari_sz.gl_je_lines_gl esta  vacia
 ---LOCATION
 ---'hdfs://HdfsHA/user/hive/warehouse/erp_pgbari_sz.db/gl_je_lines_gl'
+drop table if exists stg_dsd_canada.GL_TMA_CB;
+
 CREATE TABLE IF NOT EXISTS stg_dsd_canada.GL_TMA_CB
 AS
 SELECT
@@ -232,4 +234,4 @@ AND cast(cc.code_combination_id as string) in
 
 GROUP BY 1,2,3,4,5,6,7,8,9,10
 
-ORDER BY 1,2,3,4,5,6,7,8,9,10
+ORDER BY 1,2,3,4,5,6,7,8,9,10;
