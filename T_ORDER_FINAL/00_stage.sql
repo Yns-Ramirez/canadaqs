@@ -16,6 +16,8 @@ GROUP BY 1;
 
 -------------***********************---------------
 
+DROP TABLE wrk_global.v_order_fac_tmp_a;
+
 create table if not exists wrk_global.v_order_fac_tmp_a(
 trx_date string,
 SEGMENT1 string,
@@ -45,7 +47,8 @@ Fabrica_id string,
 cuenta string,
 code_combination_id double,
 UNIT_SELLING_PRICE double,
-QUANTITY_INVOICED double );
+QUANTITY_INVOICED double, 
+order_type string);
 
 TRUNCATE TABLE wrk_global.v_order_fac_tmp_a;
 
@@ -80,6 +83,7 @@ SELECT
     ,d.code_combination_id
     ,a.UNIT_SELLING_PRICE
     ,a.QUANTITY_INVOICED
+    ,z.order_type
 FROM (SELECT rct.* 
     FROM erp_pgbari_sz.ra_customer_trx_lines_all_ar rct, 
     wrk_global.organization_id_CBC cbc_org
@@ -103,6 +107,7 @@ INNER JOIN (
                 ,TRX_NUMBER
                 ,INVOICE_CURRENCY_CODE
                 ,EXCHANGE_RATE
+                ,a.interface_header_attribute2 as order_type
           FROM erp_pgbari_sz.ra_customer_trx_all_ar a, wrk_global.organization_id_CBC cbc_org
   LEFT OUTER JOIN (
           SELECT  
@@ -517,6 +522,7 @@ SELECT
      ,fin.UNIT_SOLD AS UNIT_SOLD                     
      ,COALESCE(CASE WHEN fin.INVOICE_CURRENCY_CODE = 'USD' THEN G.TO_CURRENCY ELSE fin.INVOICE_CURRENCY_CODE END, CASE WHEN fin.INVOICE_CURRENCY_CODE = 'USD' THEN M.TO_CURRENCY ELSE fin.INVOICE_CURRENCY_CODE END) AS INVOICE_CURRENCY_CODE
      ,fin.PRICING_QUANTITY_UOM AS PRICING_QUANTITY_UOM
+     ,fin.order_type
 FROM
      (
 SELECT
@@ -546,6 +552,7 @@ SELECT
           ,a.LOCATION_ID AS loc2
           ,b.PRICING_QUANTITY_UOM AS PRICING_QUANTITY_UOM          
           ,tipocambio
+          ,a.order_type
            ,CASE
                     WHEN b.line_category_code <> 'RETURN' AND A.QUANTITY_INVOICED <> 0 THEN A.QUANTITY_INVOICED
                     WHEN b.line_category_code <> 'RETURN' AND (A.QUANTITY_INVOICED = 0 OR A.QUANTITY_INVOICED IS NULL) AND b.PRICING_QUANTITY_UOM = 'CS' THEN A.QUANTITY_INVOICED
