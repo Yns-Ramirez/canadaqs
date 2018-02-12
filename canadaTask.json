@@ -19,21 +19,42 @@
                         {
                             "enable" : true,
                             "file_path" : "Canada/V_PLANTS/",
-                            "is_directory" : true, 
+                            "is_directory" : true,
                             "asynchronous" : false,
                             "parameters" : ""
                         },
                         {
                             "enable" : true,
                             "file_path" : "Canada/BIEO_EXPORT_BAC/",
-                            "is_directory" : true, 
+                            "is_directory" : true,
                             "asynchronous" : false,
                             "parameters" : ""
                         },
                         {
                             "enable" : true,
                             "file_path" : "Canada/BIEO_EXPORT_BAC_CBC/",
-                            "is_directory" : true, 
+                            "is_directory" : true,
+                            "asynchronous" : false,
+                            "parameters" : ""
+                        },
+                        {
+                            "enable" : true,
+                            "file_path" : "Canada/VIEWS/",
+                            "is_directory" : true,
+                            "asynchronous" : false,
+                            "parameters" : ""
+                        },
+                        {
+                            "enable" : true,
+                            "file_path" : "Canada/FLATFILES/",
+                            "is_directory" : true,
+                            "asynchronous" : false,
+                            "parameters" : ""
+                        },
+                        {
+                            "enable" : true,
+                            "file_path" : "Canada/T_DEMANTRA/",
+                            "is_directory" : true,
                             "asynchronous" : false,
                             "parameters" : ""
                         }
@@ -46,18 +67,32 @@
                         {
                             "enable" : true,
                             "file_path" : "Canada/T_PRODUCTS_CB/",
-                            "is_directory" : true, 
+                            "is_directory" : true,
                             "asynchronous" : false,
                             "parameters" : ""
                         },
                         {
                             "enable" : false,
                             "file_path" : "Canada/T_ORDER_FINAL/",
-                            "is_directory" : true, 
+                            "is_directory" : true,
+                            "asynchronous" : false,
+                            "parameters" : ""
+                        },
+                        {
+                            "enable" : false,
+                            "file_path" : "Canada/GL_TMA_CB/",
+                            "is_directory" : true,
+                            "asynchronous" : false,
+                            "parameters" : ""
+                        },
+                        {
+                            "enable" : false,
+                            "file_path" : "Canada/TMA_ADJUSTMENT/",
+                            "is_directory" : true,
                             "asynchronous" : false,
                             "parameters" : ""
                         }
-                    ]
+                        ]
                 },
                 {
                     "step_desc" : "LEVEL_3",
@@ -66,7 +101,28 @@
                         {
                             "enable" : true,
                             "file_path" : "Canada/T_CUSTOMERS_CB/",
-                            "is_directory" : true, 
+                            "is_directory" : true,
+                            "asynchronous" : false,
+                            "parameters" : ""
+                        },
+                        {
+                            "enable" : true,
+                            "file_path" : "Canada/BURGUER_KING_SALES/",
+                            "is_directory" : true,
+                            "asynchronous" : false,
+                            "parameters" : ""
+                        },
+                        {
+                            "enable" : true,
+                            "file_path" : "Canada/T_TMA_FINAL/",
+                            "is_directory" : true,
+                            "asynchronous" : false,
+                            "parameters" : ""
+                        },
+                        {
+                            "enable" : true,
+                            "file_path" : "Canada/WENDYS_FINAL/",
+                            "is_directory" : true,
                             "asynchronous" : false,
                             "parameters" : ""
                         }
