@@ -1,6 +1,9 @@
 ---la  tabla erp_pgbari_sz.gl_je_lines_gl esta  vacia
 ---LOCATION
 ---'hdfs://HdfsHA/user/hive/warehouse/erp_pgbari_sz.db/gl_je_lines_gl'
+
+drop table if exists stg_dsd_canada.GL_TMA_CB;
+
 CREATE TABLE IF NOT EXISTS stg_dsd_canada.GL_TMA_CB
 AS
 SELECT      gjh.period_name,
